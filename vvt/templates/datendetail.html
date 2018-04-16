@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<p><b> Datengruppe: </b>{{ name.datengruppe }}</p>
+{% if daten_list %}
+{% for daten in daten_list %}
+<span>{{ daten.daten }}, </span>
+{% endfor %}
+
+{% comment %} <ul class="list-group">
+    {% for daten in daten_list %}
+        <li class="list-group-item">{{ daten.daten }}</li>
+    {% endfor %}
+</ul> {% endcomment %}
+{% else %}
+ <p>leer</p>
+{% endif %}
+{% endblock %}

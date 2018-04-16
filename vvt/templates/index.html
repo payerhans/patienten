@@ -1,16 +1,16 @@
-{% load bootstrap4 %}
-{# Load CSS and JavaScript #}
-{% bootstrap_css %}
-{% bootstrap_javascript jquery='full' %}
-<h1>Überschrift</h1>
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{{ titel }}</h1>
 <p>
 {% if datengruppen %}
-<ul>
+<ul class="list-group">
     {% for datengruppe in datengruppen %}
-        <li>{{ datengruppe.datengruppe }}</li>
+        <li class="list-group-item"><a href="{% url 'datengruppendetail' datengruppe.id %}">{{ datengruppe.datengruppe }}</a></li>
     {% endfor %}
 </ul>
 {% else %}
  <p>leer</p>
 {% endif %}
 </p>
+{% endblock %}

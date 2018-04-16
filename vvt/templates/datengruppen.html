@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{{ titel }}</h1>
+{% if datengr_list %}
+{% for datengr in datengr_list %}
+<p>
+        <a class="btn btn-primary" data-toggle="collapse" href="#{{datengr.datengruppe}}" aria-expanded="false" aria-controls="collapseExample">
+          {{ datengr.datengruppe }}
+        </a>
+        {% comment %} <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+          Button with data-target
+        </button> {% endcomment %}
+</p>
+<div class="collapse" id="{{datengr.datengruppe}}">
+        <div class="card card-body">
+                {% for  daten in  d_list.1 %}
+                <span>{{ daten.daten }}, </span>
+                {% endfor %}
+        </div>
+</div>
+{% endfor %}
+<p>
+
+<ul class="list-group">
+    {% for daten in daten_list %}
+        <li class="list-group-item">{{ daten.daten }}</li>
+    {% endfor %}
+</ul>
+{% else %}
+ <p>leer</p>
+{% endif %}
+</p>
+
+
+{% endblock %}
