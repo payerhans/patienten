@@ -34,3 +34,15 @@ def datengruppen(request):
     d_list = nester(Datengruppen, Daten)
     content = {'d_list' : d_list, 'datengr_list' : datengr_list }
     return render(request, 'datengruppen.html', content)
+
+def uebermittlung(request, uebermittlungid):
+    titel = "Übermittlungen"
+    if uebermittlungid < 10:
+        uid = "'%%0"+str(uebermittlungid)+"%%'"
+    else:
+        uid = "'%%"+str(uebermittlungid)+"%%'"
+    #uid = "'%%03%%'"
+    ue_detail_list = Daten.objects.raw("SELECT * FROM vvt_daten WHERE daten_anmerkung LIKE %s " % uid )
+
+    context = {'titel' : titel, 'uid' : uid, 'ue_detail_list' : ue_detail_list }
+    return render(request, 'uebermittlung.html', context)

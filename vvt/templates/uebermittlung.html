@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{{ titel }}</h1>
+Die id ist: {{ uid }}
+<p>
+{% if ue_detail_list %}
+<ul class="list-group">
+    {% for detail in ue_detail_list %}
+      {{ detail.daten }}, 
+    {% endfor %}
+</ul>
+{% else %}
+ <p>leer</p>
+{% endif %}
+</p>
+{% endblock %}

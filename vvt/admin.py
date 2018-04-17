@@ -3,8 +3,8 @@ from .models import Datengruppen, Daten, Datenuebermittlung, Empfaenger
 
 class DatenInline(admin.StackedInline):
     model = Daten
-    fields = ['daten']
-    extra = 3
+    fields = ['daten', 'daten_anmerkung']
+    #extra = 3
 
 class DatenGruppenAdmin(admin.ModelAdmin):
     #model = Datengruppen

@@ -6,7 +6,7 @@
 {% if datengruppen %}
 <ul class="list-group">
     {% for datengruppe in datengruppen %}
-        <li class="list-group-item"><a href="{% url 'datengruppendetail' datengruppe.id %}">{{ datengruppe.datengruppe }}</a></li>
+        <li class="list-group-item"><a href="{% url 'datengruppendetail' datengruppe.id %}" target="_blank">{{ datengruppe.datengruppe }}</a></li>
     {% endfor %}
 </ul>
 {% else %}
