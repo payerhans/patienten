@@ -1,9 +1,10 @@
 from django.conf.urls import url, include
 from rest_framework import routers
-from .views import DatengruppenViewSet
+from .views import DatengruppenViewSet, DatenViewSet
 
 router = routers.DefaultRouter()
 router.register(r'datengruppe', DatengruppenViewSet)
+router.register(r'daten', DatenViewSet)
 
 
 # Wire up our API using automatic URL routing.
