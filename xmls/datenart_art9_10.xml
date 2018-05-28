@@ -1,0 +1,82 @@
+<Risikoobjekte>
+<RisikoObjekt ID="c30800ca-9e04-4582-8a5d-b10cda6d2ebc" BauID="47" KatalogID="355" Version="5" Name="Daten zum Antrag auf Unterbringung in einer psychiatrischen Abt." Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-22T13:23:17.4427371+02:00" CreatedAt="2018-05-22T13:19:37.4115728+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="a2bffa1d-0696-4b8a-86f6-7c92c0b76fa4" BauID="47" KatalogID="355" Version="5" Name="Patientenstammdaten" Beschreibung="Patientenaufnahmezahl, Name (Familienname, Vorname), Frühere Namen, Titel, Geburtsjahr/Alter, Geburtsdatum, Geburtsort/Geburtsland, Geschlecht, Familienstand, Anschrift, Bundesland, Staatsbürgerschaft, Beruf, Religion" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="3f957b11-37e1-4c35-b2a6-cee698f20be3" BauID="47" KatalogID="355" Version="5" Name="Daten zur Versicherung und Abrechnung" Beschreibung="Name, Adresse und Erreichbarkeit des Arbeitgebers, Daten zu Sozialversicherungsträger, Sozialversicherungsnummer Gebührenklasse, Daten von Hauptversicherten, Verrechnungsrelevante Diagnosen, Verrechnungsrelevante medizinische Einzelleistungen (z.B. Therapien), Sonstige Versicherungs- und Abrechnungsdaten (z.B. Krankenschein, Arzthonorare, Befundhonorare)" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="2e354446-5fd6-4e41-bb53-0e2f3b0b828d" BauID="47" KatalogID="355" Version="5" Name="Daten zur Feststellung des Versicherungsanspruches und Kostenübernahme - Patienten" Beschreibung="Patientenaufnahmezahl, Name (Familienname, Vorname), Titel, Geburtsdatum, Geburtsort/Geburtsland, Geschlecht, Familienstand, Anschrift, Staatsbürgerschaft, Name, Adresse und Erreichbarkeit des Arbeitgebers, Sozialversicherungsträger, Sozialversicherungsnummer, Verrechnungsrelevante Diagnosen, Verrechnungsrelevante medizinische Einzelleistungen (z.B. Therapien), Sonstige Versicherungs- und Abrechnungsdaten (z.B. Krankenschein, Arzthonorare, Befundhonorare), Aufnahme-, Besuchs- (Kontroll-)Transferierungs- und Entlassungs-(Abschluss-)daten, Daten der Verlegung (Aufnahme-,Transferierungs- und Entlassungsabteilung), Aufnahme-, Entlassungsart bzw.-zustand, Daten der Zuweisung (z.B.Zuweisungsdiagnose), Einweisende Stelle (Name, Adresse von Arzt bzw. Krankenanstalt, Entlassungsbefund, Obduktions- und Todesdaten, pathologische Diagnose, Gebührenklasse, Diagnosen," Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Payer Hans-Christian" ChangedAt="2018-05-22T11:37:09.78649+02:00" CreatedAt="2018-04-17T11:26:06.1282012+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="7ae8b47d-ad15-4dec-9ef1-0bf82b0e0fe3" BauID="47" KatalogID="355" Version="5" Name="Daten zur Feststellung des Versicherungsanspruches und Kostenübernahme - Zahlungspflichtiger" Beschreibung="Name (Familienname, Vorname), Titel, Geburtsdatum, Geburtsort/Geburtsland, Geschlecht, Familienstand, Anschrift, Staatsbürgerschaft, Name, Adresse und Erreichbarkeit des Arbeitgebers, Daten zu Sozialversicherungsträger, Sozialversicherungsträger, Sozialversicherungsnummer" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-22T11:37:24.630302+02:00" CreatedAt="2018-05-22T11:31:23.6147548+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+</Risikoobjekte>

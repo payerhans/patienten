@@ -1,0 +1,339 @@
+
+<Risikoobjekte>
+<RisikoObjekt ID="998b40fd-f0f2-44c8-8354-e88e1106b99d" BauID="43" KatalogID="355" Version="5" Name="Patientenanwaltschaften" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-22T13:13:39.755806+02:00" CreatedAt="2018-05-22T13:13:28.5525938+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="3d981d70-4c83-47d0-b41e-2d71380dc5b1" BauID="43" KatalogID="355" Version="5" Name="Patientenanwaltschaft des Vereins für Sachwalterschaft" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-22T13:14:08.5990165+02:00" CreatedAt="2018-05-22T13:13:52.1771545+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f7e65bce-9938-4490-a07a-44f20d0444d3" BauID="43" KatalogID="355" Version="5" Name="Einweiser" Beschreibung="Einweisende oder behandelnde Ärzte, einschließlich Ärzte von externen Krankenanstalten, Pflege-, Geriatrie- und Rehab-Zentren" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="45effeda-f3b9-4e53-b092-0c2f52e5c6f2" BauID="43" KatalogID="355" Version="5" Name="Burgenländischer Gesundheitsfonds" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.428753+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="170ca9fb-7dbf-4ffb-b55b-2dfdf8e22acd" BauID="43" KatalogID="355" Version="5" Name="Hauptverband der österreichischen Sozilaversicherungsträger" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="13025e80-60b6-4658-96b9-c431e309c669" BauID="43" KatalogID="355" Version="5" Name="Sozialversicherungsträger des Hauptverbandes" Beschreibung="AUVA - Allgemeine Unfallversicherungsanstalt&#xD;&#xA;BVA - Versicherungsanstalt öffentlich Bediensteter&#xD;&#xA;NÖGKK - Niederösterreichische GebietskrankenkasseOÖGKK&#xD;&#xA;OÖGKK - FORUM GESUNDHEIT&#xD;&#xA;PVA - PENSIONSVERSICHERUNGSANSTALT&#xD;&#xA;SGKK - Salzburger Gebietskrankenkasse&#xD;&#xA;STGKK - STEIERMÄRKISCHE GEBIETSKRANKENKASSE&#xD;&#xA;SVA - Sozialversicherungsanstalt der gewerblichen Wirtschaft&#xD;&#xA;SVB - Sozialversicherungsanstalt der Bauern&#xD;&#xA;TGKK - Tiroler Gebietskrankenkasse&#xD;&#xA;VAEB - Versicherungsanstalt für Eisenbahnen und Bergbau&#xD;&#xA;VGKK - Vorarlberger Gebietskrankenkasse&#xD;&#xA;WGKK - Wiener Gebietskrankenkasse" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="578aba07-a0d4-4d89-89ad-19abcd7491d5" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="aec0231f-c6ab-4a05-89d6-f632fd63d3e3" BauID="43" KatalogID="355" Version="5" Name="Sicherheitsdienststellen" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="6a5a1b79-1df7-4bba-b86c-e3d2fffca605" BauID="43" KatalogID="355" Version="5" Name="Standesämter" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="b38bc6dd-31ef-4c02-8e2b-7e58d1358b6c" BauID="43" KatalogID="355" Version="5" Name="Totenbeschauer" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="0a762622-1d0c-4a44-a1b2-a95b2a09d20b" BauID="43" KatalogID="355" Version="5" Name="Ausländische Versicherungsträger" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="1baba0ac-7c20-4ca6-8723-1661669522c7" BauID="43" KatalogID="355" Version="5" Name="Transplationszentrum Inland" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="c75c6e1f-9835-49cb-9573-368a39f39b9f" BauID="43" KatalogID="355" Version="5" Name="Transplatationszentrum Ausland" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="85fa55a5-fc39-4ffd-897e-875d6ca72def" BauID="43" KatalogID="355" Version="5" Name="externe Spitäler, Ärzte und ambulanter Leistungsbereich (z.B. radiologische Institute, Labors) - Inland" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="be3d1159-339f-402e-94ad-33167bc6b60c" BauID="43" KatalogID="355" Version="5" Name="Sozialhilfeträger" Beschreibung="Sozialhilfeträger (Amt der Bgld. Landesregierung, Abteilung 6), die entlassene Sozialhilfeempfänger und pflegebedürftige Patienten betreuen (Übermittlung in Aufgabengebiet Sozialhilfe und Jugendfürsorge)" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="e0e7493a-2df6-4e69-8dea-189b3c47d8c8" BauID="43" KatalogID="355" Version="5" Name="Burgenländische Gesundheits-, Patientinnen-, Patienten- und Behindertenanwaltschaft" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="67890e5c-9846-4897-bae7-c91ec92f06fb" BauID="43" KatalogID="355" Version="5" Name="Gerichte" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="0c7ba58c-9731-4d64-a804-b616272fe680" BauID="43" KatalogID="355" Version="5" Name="Sachverständige" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="c6d94901-3f15-43b5-9ae1-fb3de6cf2624" BauID="43" KatalogID="355" Version="5" Name="Rechtsanwälte" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="c2eff65f-20c4-4df1-94c4-43348b905dca" BauID="43" KatalogID="355" Version="5" Name="Schlichtungsstellen" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="c33a88c3-d00b-4dd1-a0e3-7d8b6eb57b93" BauID="43" KatalogID="355" Version="5" Name="Versicherungsträger" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f52f0a42-9a4d-49b3-83fe-cd4a66ce1c6d" BauID="43" KatalogID="355" Version="5" Name="Forschungszentrum Seibersdorf - Austrian Research Centrers GmbH - ARC (Personendosimeter)" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4292583+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+</Risikoobjekte>

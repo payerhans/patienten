@@ -1,0 +1,626 @@
+<Risikoobjekte>
+<RisikoObjekt ID="b3560eb0-457e-4fe1-86e5-a9c818fe79a8" BauID="12" KatalogID="355" Version="5" Name="An-/Abmeldung Mitarbeiter SV" Beschreibung="An- und Abmeldung der Mitarbeiter bei Sozialversicherungsträgern" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:28:04.0943981+02:00" CreatedAt="2018-04-05T14:22:32.3129776+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.1880036+02:00" CreatedAt="2018-04-05T14:22:42.1880036+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:22:42.1880036+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:22:42.203633+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:22:42.203633+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:22:42.203633+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:22:42.203633+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:22:42.203633+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="2d8928af-d56b-4fba-ab4a-3c22a2a01c7c" BauID="12" KatalogID="355" Version="5" Name="Krankmeldung" Beschreibung="Krankmeldungen an die Sozialversicherung." Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:28:09.3287251+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.1880036+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:32:53.0008357+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="64b9d9c7-4b8b-46ad-9b17-d2993141cc19" BauID="12" KatalogID="355" Version="5" Name="Gehaltsabrechnung" Beschreibung="Die Lohn- und Gehaltsdaten gelangen über ELBA an die Bank zur Überweisung. " Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:28:05.9381252+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.1880036+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:35:54.7974272+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="27538dbd-8644-4b04-87fc-beb56e26e637" BauID="12" KatalogID="355" Version="5" Name="Jahreslohnzettelmeldung" Beschreibung="Lohnsteuerinformationen werden vom Bereich Personal an das Finanzamt übermittelt. &#xD;&#xA;&#xD;&#xA;Die Sozialverischerung und das Finanzamt bekommen jährlich einen Jahreslohnzettel, der die Informationen über die Mitarbeiter enhält. " Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:28:11.719272+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.1880036+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-05T14:22:42.203633+02:00" CreatedAt="2018-04-05T14:39:54.5787295+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="785181cc-8d18-4fa0-838a-4fcb4d31f705" BauID="12" KatalogID="355" Version="5" Name="Übermittlung von Entlassungsbriefen" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3793297+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="92a135cb-5e58-49dc-ad33-b7e63d31309f" BauID="12" KatalogID="355" Version="5" Name="Diagnosen - und Leistungsdokumentation" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4121173+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-04-20T08:47:16.3963184+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="81b762b9-64f6-4a71-9bea-8859c725460d" BauID="12" KatalogID="355" Version="5" Name="Feststellung des zuständigen Sozialversicherungsträgers" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="578aba07-a0d4-4d89-89ad-19abcd7491d5" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:14:55.3871959+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T07:55:09.1576425+02:00" CreatedAt="2018-04-17T07:55:09.1576425+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="fb08ffff-e9a1-4365-8668-09492ac36d70" BauID="12" KatalogID="355" Version="5" Name="Feststellen des Versicherungsanspruches und Kostenübernahme und Ambulanzverrechnung - Patienten" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="578aba07-a0d4-4d89-89ad-19abcd7491d5" ChangedBy="Crisam User" CreatedBy="Payer Hans-Christian" ChangedAt="2018-05-22T11:29:56.9584711+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-04-17T11:23:59.9706244+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="17d71576-95e2-4de0-8873-cbfff76cb7b2" BauID="12" KatalogID="355" Version="5" Name="Verletzungsanzeige" Beschreibung="Anzeige an die Sicherheitsbehörden bei Verdacht, dass ein Minderjähriger misshandelt, gequält, vernachlässigt oder sexuell missbraucht worden ist. Anzeige an die Sicherheitsbehörde bei Verdacht, dass durch eine gerichtlich strafbare Handlung der Tod oder eine schwere Körperverletzung herbeigeführt wurde oder eine volljährige Person, die ihre Interessen nicht selbst wahrzunehmen vermag, misshandelt, gequält, vernachlässigt oder sexuell missbraucht worden ist" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:50.0846233+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-17T12:37:06.2847937+02:00" CreatedAt="2018-04-17T12:37:06.2847937+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="68d8fd8b-3709-4132-b50c-7399bfb642b1" BauID="12" KatalogID="355" Version="5" Name="Geburtsfälle, Todesfälle" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4126226+02:00" CreatedAt="2018-04-20T08:47:16.4121173+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4126226+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="ba09f009-0049-4f77-9687-b202e59735cc" BauID="12" KatalogID="355" Version="5" Name="Übermittlung Krebsregister" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="e272322e-9d72-4063-a57b-3998465613b7" BauID="12" KatalogID="355" Version="5" Name="Verrechnung mit ausländischen Versicherungsträgern" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1694423+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="6f8ff077-133d-44c1-98ac-8a499ab336d7" BauID="12" KatalogID="355" Version="5" Name="Koordination Organspenden" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1850756+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="70b62fe5-f520-4c8e-8c42-802f89df6745" BauID="12" KatalogID="355" Version="5" Name="(Tele-)Konsultationen" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Payer Hans-Christian" ChangedAt="2018-05-22T11:21:19.7867627+02:00" CreatedAt="2018-04-17T07:43:14.185582+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f5d3b963-1c1c-4d6d-a8e9-9c614fe80c55" BauID="12" KatalogID="355" Version="5" Name="Übermittlungen zum Zwecke der Rechtsdurchsetzung und der Klärung von Beschwerden" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1860824+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="1b0066f2-4d99-40ce-8c7f-4506a69a7085" BauID="12" KatalogID="355" Version="5" Name="Übermittlung Straheldosen Bediensteter" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="b7e4d780-9ccb-441a-be52-6fa02ffd67a2" BauID="12" KatalogID="355" Version="5" Name="Antrag auf Unterbringung in einer psychiatrischen Abt." Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Payer Hans-Christian" ChangedAt="2018-05-22T13:20:01.6775284+02:00" CreatedAt="2018-04-17T07:43:14.1865838+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Payer Hans-Christian" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-04-20T08:47:16.4131237+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="333417d5-971f-4cec-b372-46bbb972b699" BauID="12" KatalogID="355" Version="5" Name="Bestellausschreibungen auf ANKÖ Plattform (DSFA ja)" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:22:18.5992931+02:00" CreatedAt="2018-04-20T10:55:39.7693801+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.92595+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.941291+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.941291+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.941291+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.941291+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.941291+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:55:44.941291+02:00" CreatedAt="2018-04-20T10:55:44.941291+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="894a6c4a-3037-4c0e-aa2e-0b4c82799042" BauID="12" KatalogID="355" Version="5" Name="Übermittlung Knochenmarksuntersuchungen (DSFA ja)" Beschreibung="Übermittlung per Fax" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:21:07.0833577+02:00" CreatedAt="2018-05-15T16:29:23.7266375+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:29:44.5833676+02:00" CreatedAt="2018-05-15T16:29:44.5833676+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="40243b12-11ff-4806-bf06-d937ec6f5978" BauID="12" KatalogID="355" Version="5" Name="Bilddatenübermittlung Radiologie (DSFA ja)" Beschreibung="Übermittlung mittels MARC: an KRAGES KHs, div. steirische KHs, KH Wr. Neustadt, niedergelassene Radiologen, Wagner Institut ?&#xD;&#xA;Übermittlung mittles VPN ?: von KH Kittsee nach KH Eisenstadt" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:18:58.9271328+02:00" CreatedAt="2018-05-16T15:33:20.3022576+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-16T15:33:28.5367248+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-16T15:33:28.5367248+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-16T15:33:28.5367248+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-16T15:33:28.5367248+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5540795+02:00" CreatedAt="2018-05-16T15:33:28.5367248+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5540795+02:00" CreatedAt="2018-05-16T15:33:28.5540795+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5540795+02:00" CreatedAt="2018-05-16T15:33:28.5540795+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="96f78bff-115e-4ae6-bf97-656f117c8d2d" BauID="12" KatalogID="355" Version="5" Name="Übermittlung Medikationsauswertungen an SV-Träger (DSFA ja)" Beschreibung="Übermittlung Medikationsauswertungen (Vor/Nach-Aufenthalt) zur Identifikation von Einsparungspotential an die SV-Träger" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:31:14.0365042+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5367248+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5540795+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5540795+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:33:28.5540795+02:00" CreatedAt="2018-05-17T10:46:51.5365013+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="10a119da-0ed9-4641-8cf6-909d33efc58d" BauID="12" KatalogID="355" Version="5" Name="Feststellen des Versicherungsanspruches und Kostenübernahme und Ambulanzverrechnung - Zahlungspflich" Beschreibung="-" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-22T11:31:40.8177231+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-17T11:23:59.9706244+02:00" CreatedAt="2018-05-22T11:30:23.6458356+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="7b7070a7-0fd2-4aaf-bd3f-1f31bb1d1e1f" BauID="12" KatalogID="355" Version="5" Name="Beschwerdenübermittlung im Zuge des Beschwerdenmanagements" Beschreibung="an Gerichte, Patientenanwälte, Rechtsanwälte, Versicherungen" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:46:30.7865054+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:45:29.8646472+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f794551f-3ecf-44e6-aa6e-298d8fe4da9b" BauID="12" KatalogID="355" Version="5" Name="Übermittlung von Sturzprotokollen " Beschreibung="in Einzelfällen (zur Klärung von Rechtsfällen) an Gerichte" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:48:08.4585911+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:47:24.3022648+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="b6cc8ead-e9da-4c0a-a937-37b833fee0df" BauID="12" KatalogID="355" Version="5" Name="Übermittlung von Dekubiti-Protokollen" Beschreibung="in Einzelfällen (zur Klärung von Rechtsfällen) an Gerichte" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:49:06.6302741+02:00" CreatedAt="2018-05-25T10:48:48.692751+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.692751+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.7083821+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.7083821+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.7083821+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.7083821+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.7083821+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.4131237+02:00" CreatedAt="2018-05-25T10:48:48.7083821+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="1f07436a-a0ba-4c95-8640-e06ac7e1e4a6" BauID="12" KatalogID="355" Version="5" Name="Übermittlung von Art9 Daten zur Weiterpflege von Patienten" Beschreibung="Im Zuge der Entlassungsauswertung können/müssen bei Weiterpflege Gesundheitsdaten an div. Pflegeheime, Hauskrankenpfleger, Case Manager von SZ weitergeleitet werden" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:51:54.1615967+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Payer Hans-Christian" CreatedBy="Crisam User" ChangedAt="2018-04-20T08:47:16.3963184+02:00" CreatedAt="2018-05-25T10:49:38.8490103+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+</Risikoobjekte>

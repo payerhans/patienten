@@ -1,0 +1,386 @@
+<RisikoObjekte>
+<RisikoObjekt ID="1f1e8498-1138-48b2-a999-7258372946a0" BauID="41" KatalogID="355" Version="5" Name="Bewerber allgemein" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Personal" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-16T15:47:36.2085406+02:00" CreatedAt="2018-04-05T09:26:28.0482448+02:00" Officer="Leiter Personal" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="181d93c1-4d2b-4199-b6a4-1eb981fb24c5" BauID="41" KatalogID="355" Version="5" Name="Mitarbeiter allgemein" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Personal;  Leiter KH Verwaltung;  Leiter IT (SAP-Planung und Betrieb);  Leiter IT (SAP-Berechtigungen)" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:31:40.0521406+02:00" CreatedAt="2018-04-05T09:28:43.0942512+02:00" Officer="Leiter Personal;  Leiter KH Verwaltung;  Leiter IT (SAP-Planung und Betrieb);  Leiter IT (SAP-Berechtigungen)" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="42a6df49-69be-426e-90dc-03d92bc4d522" BauID="41" KatalogID="355" Version="5" Name="Externe Referenten" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Personal" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T13:27:16.1616469+02:00" CreatedAt="2018-04-05T09:29:00.8289717+02:00" Officer="Leiter Personal" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="9c838bb8-39a0-4535-bc96-958aebb7874b" BauID="41" KatalogID="355" Version="5" Name="Externe Schulungsteilnehmer" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Personal" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-09T14:23:03.4585003+02:00" CreatedAt="2018-04-05T09:29:37.0942808+02:00" Officer="Leiter Personal" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f17bee12-e51c-44b1-b3c8-1ecdc4e0371d" BauID="41" KatalogID="355" Version="5" Name="Vertrauenspersonen" Beschreibung="inkl. Notfallkontaktperson" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:46:08.6881761+02:00" CreatedAt="2018-04-05T15:34:54.4693964+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="a262261d-bd3f-469c-b362-44bc59fd2345" BauID="41" KatalogID="355" Version="5" Name="Begleitpersonen (aufgenommen)" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-08T16:30:12.728367+02:00" CreatedAt="2018-04-05T15:34:17.6569601+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f5c4678e-1655-410e-8287-18c15f6dd05b" BauID="41" KatalogID="355" Version="5" Name="Zahlungspflichtige" Beschreibung="Hauptversicherte, Selbstzahler, Privatversicherte" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:37:11.7820151+02:00" CreatedAt="2018-04-05T15:33:53.7192594+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="28b29129-612f-4aa0-868c-4081a87d4b32" BauID="41" KatalogID="355" Version="5" Name="Patienten" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung;  Leiter IT (SAP-Planung und Betrieb);  Leiter IT (SAP-Berechtigungen);  Leiter KH Verwaltung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T09:38:39.4272329+02:00" CreatedAt="2018-04-05T15:31:39.6256109+02:00" Officer="Kollegiale Führung;  Leiter IT (SAP-Planung und Betrieb);  Leiter IT (SAP-Berechtigungen);  Leiter KH Verwaltung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="27ea3068-0119-49b8-baa0-1c503c0edb49" BauID="41" KatalogID="355" Version="5" Name="Patientenvertreter" Beschreibung="Personenvertreter, gesetzliche Vertreter" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T11:03:43.3133114+02:00" CreatedAt="2018-04-05T15:35:15.079211+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="2514ccb2-3142-4906-b0d5-cd88b751937e" BauID="41" KatalogID="355" Version="5" Name="Zuweiser/Hausärzte" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:37:35.0632422+02:00" CreatedAt="2018-04-05T15:35:48.1102323+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="7b92fd53-97d4-4ca5-895f-4662e10a252a" BauID="41" KatalogID="355" Version="5" Name="Mitarbeiter im medizinisch-pflegerischem Bereich" Beschreibung="Ärzte, Administration, gehobener medizinisch technischer Dienst, gehobenes Gesundheits und Krankenpflegepersonal, Hebamen, klinische Pharmazeuten" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T09:49:13.9584384+02:00" CreatedAt="2018-04-05T15:57:16.9068422+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="e48ef7ac-a526-4654-ba32-5d37a3b9ef61" BauID="41" KatalogID="355" Version="5" Name="Notärzte/Sanitäter extern" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:39:07.9848993+02:00" CreatedAt="2018-04-06T10:34:32.9382453+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="2d236e0d-e0d0-4b03-bcac-65a72ce9b9c1" BauID="41" KatalogID="355" Version="5" Name="Externe Ärzte" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter IT (SAP-Planung und Betrieb)?" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-08T16:31:53.1501016+02:00" CreatedAt="2018-04-06T11:19:50.6567447+02:00" Officer="Leiter IT (SAP-Planung und Betrieb)?" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="2a21b5b9-1299-4f1f-8b5b-81a82d1c9a46" BauID="41" KatalogID="355" Version="5" Name="Lieferanten" Beschreibung="potentielle Lieferanten bei Ausschreibungen und vertraglich erfasste Lieferanten " Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Einkauf;  Leiter IT (SAP-Planung und Betrieb);  Leiter KH Verwaltung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-09T14:37:26.208561+02:00" CreatedAt="2018-04-06T11:21:49.0634917+02:00" Officer="Leiter Einkauf;  Leiter IT (SAP-Planung und Betrieb);  Leiter KH Verwaltung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="a3126727-1757-4160-a7e4-aa5262ba03d1" BauID="41" KatalogID="355" Version="5" Name="Geschäftspartner" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter IT (SAP-Planung und Betrieb)?" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T13:44:41.3132807+02:00" CreatedAt="2018-04-06T11:22:22.8443298+02:00" Officer="Leiter IT (SAP-Planung und Betrieb)?" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="489edc68-c0bd-41a2-a005-a05e8e312e04" BauID="41" KatalogID="355" Version="5" Name="Lehrer Pflegeschule" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter IT (SAP-Planung und Betrieb)?" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T13:26:21.8333739+02:00" CreatedAt="2018-04-06T11:23:15.016165+02:00" Officer="Leiter IT (SAP-Planung und Betrieb)?" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="11c20050-2c9d-4bdd-8601-615483b9e32e" BauID="41" KatalogID="355" Version="5" Name="Schüler Pflegeschule" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter IT (SAP-Planung und Betrieb)?" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T13:24:59.7398702+02:00" CreatedAt="2018-04-06T11:23:28.0973426+02:00" Officer="Leiter IT (SAP-Planung und Betrieb)?" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="76a08854-aa6c-4335-b602-a9ccc6d5cdf2" BauID="41" KatalogID="355" Version="5" Name="Externe Berater" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter IT (SAP-Planung und Betrieb)?" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T14:47:24.9225067+02:00" CreatedAt="2018-04-06T11:24:56.4692653+02:00" Officer="Leiter IT (SAP-Planung und Betrieb)?" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="ce211ac9-1edb-4295-8686-1f9857c1cab8" BauID="41" KatalogID="355" Version="5" Name="Interessenten" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Einkauf; .." IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:39:14.6444103+02:00" CreatedAt="2018-04-20T09:01:40.6912945+02:00" Officer="Leiter Einkauf; .." Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="d61211a9-116d-48ac-bedd-6aaab83014d7" BauID="41" KatalogID="355" Version="5" Name="Öffentlichkeit" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung;  Leiter Verwaltung/Tischlerei Schlaining" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-26T16:50:40.6757414+02:00" CreatedAt="2018-04-26T15:05:18.8162548+02:00" Officer="Kollegiale Führung;  Leiter Verwaltung/Tischlerei Schlaining" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="b060e3bd-9353-44f6-98b0-1c74c3a2b810" BauID="41" KatalogID="355" Version="5" Name="Kunden (Tischlerei Schlaining)" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Kollegiale Führung" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-26T16:54:57.2305549+02:00" CreatedAt="2018-04-26T16:49:59.8944424+02:00" Officer="Kollegiale Führung" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="0b83ffb2-8815-4d7c-aa60-0406cc43a40f" BauID="41" KatalogID="355" Version="5" Name="Aufsichtsratsmitglieder" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-09T15:22:46.6777011+02:00" CreatedAt="2018-05-09T13:46:28.0833669+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="b3f76c26-190f-4ab6-a210-63b850a6f319" BauID="41" KatalogID="355" Version="5" Name="Patienten Reha Zentrum Kittsee" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Neurologisches Reha Zentrum Kittsee" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T12:33:56.0990599+02:00" CreatedAt="2018-05-16T14:18:23.1615707+02:00" Officer="Neurologisches Reha Zentrum Kittsee" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="52e9ef24-1cd4-42b9-88c4-d4bc918126f1" BauID="41" KatalogID="355" Version="5" Name="Bewerber Pflegeschule" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="Leiter Pflegeschule" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T13:22:23.427119+02:00" CreatedAt="2018-05-16T15:47:56.57065+02:00" Officer="Leiter Pflegeschule" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+</RisikoObjekte>

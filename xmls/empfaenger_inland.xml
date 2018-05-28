@@ -1,0 +1,66 @@
+<Risikoobjekte>
+<RisikoObjekt ID="866198a1-7ac1-4e23-9002-d2cbe7c51890" BauID="44" KatalogID="355" Version="5" Name="Sozialversicherungsträger Österreich" Beschreibung="Hauptverband der österr. Sozialversicherungsträger" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:27:26.813363+02:00" CreatedAt="2018-04-05T14:24:33.4067331+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="fe3da248-0cd4-4edf-ada6-db92b497faf7" BauID="44" KatalogID="355" Version="5" Name="Geldinstitute Österreich" Beschreibung="Österreichische Banken" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:27:23.8006385+02:00" CreatedAt="2018-04-05T14:38:10.8442979+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="353f7cf1-d89c-4b68-9e4b-699878f2050a" BauID="44" KatalogID="355" Version="5" Name="Finanzinstitute Österreich" Beschreibung="Österreichisches Finanzamt" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-06T10:27:16.5946771+02:00" CreatedAt="2018-04-05T14:48:13.3755294+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="0e584280-c000-4faf-aeaa-6855767f24f3" BauID="44" KatalogID="355" Version="5" Name="ANKÖ" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:56:38.6913104+02:00" CreatedAt="2018-04-20T10:56:26.3006621+02:00" Officer="" Approver="">
+  <Antworten/>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+</Risikoobjekte>

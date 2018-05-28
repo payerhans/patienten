@@ -1,0 +1,167 @@
+<Risikoobjekte>
+<RisikoObjekt ID="ec217ebc-fc9f-489e-8b7c-d0932aa34038" BauID="13" KatalogID="355" Version="5" Name="ANKÖ (DSFA ja)" Beschreibung="im Zuge von Ausschreibungen werden Lieferantendaten auf der ANKÖ-Plattform verarbeitet" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:35:35.2083856+02:00" CreatedAt="2018-04-20T10:54:28.3631908+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="80" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="90" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="100" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-04-20T10:54:35.160054+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="110" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-04-20T10:54:35.1757619+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="120" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-04-20T10:54:35.1757619+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="130" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-04-20T10:54:35.1757619+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="140" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-04-20T10:54:35.1757619+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="150" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-04-20T10:54:35.1757619+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="160" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-04-20T10:54:35.1757619+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.55" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="f4b67636-f10e-4e76-b8be-b70d77ca9602" BauID="13" KatalogID="355" Version="5" Name="Bank Burgenland" Beschreibung="im Zuge von Ausschreibungen werden Lieferantendaten auf der ANKÖ-Plattform verarbeitet" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-09T14:13:14.4428969+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="80" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7084262+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="90" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="100" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.160054+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="110" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="120" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="130" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="140" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="150" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="160" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-04-20T10:54:35.1757619+02:00" CreatedAt="2018-05-09T14:13:06.7239843+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="d3f80fff-fb38-4ad2-8686-6ecb345e908a" BauID="13" KatalogID="355" Version="5" Name="Transportunternehmen ? (DSFA ja)" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:36:35.8490391+02:00" CreatedAt="2018-05-15T16:17:04.1771336+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="80" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="90" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="100" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="110" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:17:46.724276+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="120" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:17:46.7397735+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="130" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:17:46.7397735+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="140" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:17:46.7397735+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="150" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:17:46.7397735+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="160" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:17:46.7397735+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="3f5482aa-6cb9-4cf3-8727-5973628f524c" BauID="13" KatalogID="355" Version="5" Name="Externe Labors (DSFA ja)" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-17T14:36:08.8333996+02:00" CreatedAt="2018-05-15T16:23:00.1771475+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1771475+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="80" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="90" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="100" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.724276+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="110" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="120" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="130" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="140" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="150" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="160" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-15T16:17:46.7397735+02:00" CreatedAt="2018-05-15T16:23:00.1927506+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.77" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="0.7" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+<RisikoObjekt ID="aa4f2589-4e73-4adc-8436-86950ad631f0" BauID="13" KatalogID="355" Version="5" Name="Ärztekammer ?" Beschreibung="" Ergebnis="" Anzahl="0" Wiederherstellung="0" Verantwortlicher="" IsOpen="0" IsTop="0" State="e470e50a-6b4a-41fc-b203-5b5feeda237c" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:45:01.8802698+02:00" CreatedAt="2018-05-25T10:44:09.2083428+02:00" Officer="" Approver="">
+  <Antworten>
+    <Antwort Version="1" FID="10" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.802156+02:00" CreatedAt="2018-05-25T10:44:27.802156+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="20" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.802156+02:00" CreatedAt="2018-05-25T10:44:27.802156+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="30" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.802156+02:00" CreatedAt="2018-05-25T10:44:27.802156+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="40" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="50" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="60" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="70" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="80" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="90" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="100" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="110" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="120" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="130" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="140" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="150" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+    <Antwort Version="1" FID="160" Bemerkung="" Wert="0" Massnahme="" ChangedBy="Crisam User" CreatedBy="Crisam User" ChangedAt="2018-05-25T10:44:27.8184388+02:00" CreatedAt="2018-05-25T10:44:27.8184388+02:00" Officer="" Approver=""/>
+  </Antworten>
+  <Ergebnise>
+    <Ergebnis KID="1" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="2" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="3" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="4" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="87" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="88" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+    <Ergebnis KID="89" EID="17" WertMINGesamt="NaN" WertMIN="NaN" WertSOLL="NaN" IsManuell="0"/>
+  </Ergebnise>
+  <Schaeden/>
+  <Stufen/>
+  <Unternehmensdaten/>
+  <Zielratings/>
+</RisikoObjekt>
+</Risikoobjekte>
