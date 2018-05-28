@@ -1,0 +1,70 @@
+2018/05/28 16:40:02 - read-file-names - Loading transformation from XML file [file:///C:/Users/paye5393/django_projects/patienten/examples/example_calling_transform_once_per_file/example_calling_transform_once_per_file\read-file-names.ktr]
+2018/05/28 16:40:02 - read-file-names - Using run configuration [Pentaho local]
+2018/05/28 16:40:02 - read-file-names - Using legacy execution engine
+2018/05/28 16:40:02 - read-file-names - Dispatching started for transformation [read-file-names]
+2018/05/28 16:40:02 - read-file-names - Nr of arguments detected:0 
+2018/05/28 16:40:02 - read-file-names - This is not a replay transformation
+2018/05/28 16:40:02 - read-file-names - I found 3 different steps to launch.
+2018/05/28 16:40:02 - read-file-names - Allocating rowsets...
+2018/05/28 16:40:02 - read-file-names -  Allocating rowsets for step 0 --> Get File Names
+2018/05/28 16:40:02 - read-file-names -   prevcopies = 1, nextcopies=1
+2018/05/28 16:40:02 - read-file-names - Transformation allocated new rowset [Get File Names.0 - Write to log.0]
+2018/05/28 16:40:02 - read-file-names -  Allocated 1 rowsets for step 0 --> Get File Names  
+2018/05/28 16:40:02 - read-file-names -  Allocating rowsets for step 1 --> Write to log
+2018/05/28 16:40:02 - read-file-names -   prevcopies = 1, nextcopies=1
+2018/05/28 16:40:02 - read-file-names - Transformation allocated new rowset [Write to log.0 - Copy rows to result.0]
+2018/05/28 16:40:02 - read-file-names -  Allocated 2 rowsets for step 1 --> Write to log  
+2018/05/28 16:40:02 - read-file-names -  Allocating rowsets for step 2 --> Copy rows to result
+2018/05/28 16:40:02 - read-file-names -  Allocated 2 rowsets for step 2 --> Copy rows to result  
+2018/05/28 16:40:02 - read-file-names - Allocating Steps & StepData...
+2018/05/28 16:40:02 - read-file-names -  Transformation is about to allocate step [Get File Names] of type [GetFileNames]
+2018/05/28 16:40:02 - read-file-names -   Step has nrcopies=1
+2018/05/28 16:40:02 - Get File Names.0 - distribution activated
+2018/05/28 16:40:02 - Get File Names.0 - Starting allocation of buffers & new threads...
+2018/05/28 16:40:02 - Get File Names.0 - Step info: nrinput=0 nroutput=1
+2018/05/28 16:40:02 - Get File Names.0 - output rel. is  1:1
+2018/05/28 16:40:02 - Get File Names.0 - Found output rowset [Get File Names.0 - Write to log.0]
+2018/05/28 16:40:02 - Get File Names.0 - Finished dispatching
+2018/05/28 16:40:02 - read-file-names -  Transformation has allocated a new step: [Get File Names].0
+2018/05/28 16:40:02 - read-file-names -  Transformation is about to allocate step [Write to log] of type [WriteToLog]
+2018/05/28 16:40:02 - read-file-names -   Step has nrcopies=1
+2018/05/28 16:40:02 - Write to log.0 - distribution activated
+2018/05/28 16:40:02 - Write to log.0 - Starting allocation of buffers & new threads...
+2018/05/28 16:40:02 - Write to log.0 - Step info: nrinput=1 nroutput=1
+2018/05/28 16:40:02 - Write to log.0 - Got previous step from [Write to log] #0 --> Get File Names
+2018/05/28 16:40:02 - Write to log.0 - input rel is 1:1
+2018/05/28 16:40:02 - Write to log.0 - Found input rowset [Get File Names.0 - Write to log.0]
+2018/05/28 16:40:02 - Write to log.0 - output rel. is  1:1
+2018/05/28 16:40:02 - Write to log.0 - Found output rowset [Write to log.0 - Copy rows to result.0]
+2018/05/28 16:40:02 - Write to log.0 - Finished dispatching
+2018/05/28 16:40:02 - read-file-names -  Transformation has allocated a new step: [Write to log].0
+2018/05/28 16:40:02 - read-file-names -  Transformation is about to allocate step [Copy rows to result] of type [RowsToResult]
+2018/05/28 16:40:02 - read-file-names -   Step has nrcopies=1
+2018/05/28 16:40:02 - Copy rows to result.0 - distribution activated
+2018/05/28 16:40:02 - Copy rows to result.0 - Starting allocation of buffers & new threads...
+2018/05/28 16:40:02 - Copy rows to result.0 - Step info: nrinput=1 nroutput=0
+2018/05/28 16:40:02 - Copy rows to result.0 - Got previous step from [Copy rows to result] #0 --> Write to log
+2018/05/28 16:40:02 - Copy rows to result.0 - input rel is 1:1
+2018/05/28 16:40:02 - Copy rows to result.0 - Found input rowset [Write to log.0 - Copy rows to result.0]
+2018/05/28 16:40:02 - Copy rows to result.0 - Finished dispatching
+2018/05/28 16:40:02 - read-file-names -  Transformation has allocated a new step: [Copy rows to result].0
+2018/05/28 16:40:02 - read-file-names - This transformation can be replayed with replay date: 2018/05/28 16:40:02
+2018/05/28 16:40:02 - read-file-names - Initialising 3 steps...
+2018/05/28 16:40:02 - Get File Names.0 - Released server socket on port 0
+2018/05/28 16:40:02 - Write to log.0 - Released server socket on port 0
+2018/05/28 16:40:02 - Copy rows to result.0 - Released server socket on port 0
+2018/05/28 16:40:02 - read-file-names - Step [Get File Names.0] initialized flawlessly.
+2018/05/28 16:40:02 - read-file-names - Step [Write to log.0] initialized flawlessly.
+2018/05/28 16:40:02 - read-file-names - Step [Copy rows to result.0] initialized flawlessly.
+2018/05/28 16:40:02 - read-file-names - Transformation has allocated 3 threads and 2 rowsets.
+2018/05/28 16:40:02 - Get File Names.0 - Starting to run...
+2018/05/28 16:40:02 - Write to log.0 - Starting to run...
+2018/05/28 16:40:02 - Copy rows to result.0 - Starting to run...
+2018/05/28 16:40:02 - Get File Names.0 - Signaling 'output done' to 1 output rowsets.
+2018/05/28 16:40:02 - Get File Names.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2018/05/28 16:40:02 - Write to log.0 - Signaling 'output done' to 1 output rowsets.
+2018/05/28 16:40:02 - Write to log.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2018/05/28 16:40:02 - Copy rows to result.0 - Signaling 'output done' to 0 output rowsets.
+2018/05/28 16:40:02 - Copy rows to result.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2018/05/28 16:40:02 - read-file-names - searching for annotations
+2018/05/28 16:40:02 - read-file-names - no annotations found

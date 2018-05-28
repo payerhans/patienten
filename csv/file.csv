@@ -1,0 +1,465 @@
+Name;ID;Beschreibung
+Produktion;2f0c24c5-671f-49fe-aeea-f56803217f6e;"Prozessbeschreibung:
+==============================================================
+Anzahl der Mitarbeiter: 250
+
+Durchgefhrte T„tigkeiten:
+==============================================================
+
+
+
+Auswirkungen bei Nichtverfgbarkeit der gesamten IT:
+==============================================================
+
+Aufgrund von JustInTime-Vereinbarungen mit den Automobilkonzernen entsteht sehr schnell, sehr groáer Schaden.
+
+Auswirkungen bei Verlust der Vertraulichkeit (wenn Daten nach auáen gelangen)
+==============================================================
+
+In einer frhen Produktphase kritisch -> KnowHow Vorsprung geht verloren (Substitute m”glich). 
+
+Auswirkungen bei Verlust der Integrit„t (wenn Daten ver„ndert werden)
+==============================================================
+
+Wrde innerhalb krzester Zeit bemerkt werden.
+
+
+Auswirkungen, wenn rechtliche Bestimmungen nicht eingehalten werden
+==============================================================
+
+Produkthaftung."
+Forschung&Entwicklung;ab8ed214-9589-4181-9f91-b9089a7973b5;"Prozessbeschreibung:
+==============================================================
+Anzahl der Mitarbeiter: 25
+
+Durchgefhrte T„tigkeiten:
+==============================================================
+
+- Explorative Forschung
+- Produktentwicklung
+
+Auswirkungen bei Nichtverfgbarkeit der gesamten IT:
+==============================================================
+
+- Mitarbeiter k”nnen unterledigte Arbeiten durchfhren
+- Eventuell Urlaub oder Zeitausgleich
+
+Auswirkungen bei Verlust der Vertraulichkeit (wenn Daten nach auáen gelangen)
+==============================================================
+
+Imagesch„den, Wettbewerbsvorteile werden verspielt. 
+
+Auswirkungen bei Verlust der Integrit„t (wenn Daten ver„ndert werden)
+==============================================================
+
+Ver„nderungen wrden sofort erkannt werden. Ver„nderungen selbst sind nicht die gr”áte Gefahr. Mehr die Verbreitung.
+
+
+Auswirkungen, wenn rechtliche Bestimmungen nicht eingehalten werden
+==============================================================
+
+Haftung der Gesch„ftsfhrung, falls rechtliche Bestimmungen nicht eingehalten werden."
+Finanzen&Controlling;cb97a934-d6fe-46dc-a70e-d07ab0144e64;"Prozessbeschreibung:
+==============================================================
+Anzahl der Mitarbeiter: 14
+
+Durchgefhrte T„tigkeiten:
+==============================================================
+
+- Debitorenbuchhaltung
+- Kreditorenbuchhaltung
+- Rechnungsprfung (Scannen von j„hrlich 25.000 Eingangsrechnungen)
+- Berichtswesen
+
+Auswirkungen bei Nichtverfgbarkeit der gesamten IT:
+==============================================================
+
+Auswirkungen bei Nichtverfgbarkeit: Skonti k”nnen nicht genutzt werden,  Ausgangsrechnungen k”nnen nicht gestellt werden, Zinsverlust, Eingangsrechnungen k”nnen nicht gescannt werden, Konzernberichte k”nnen nicht geliefert werden (am Ende des Quartals kritisch). Wenn Prozess nicht verfgbar:
+- Mitarbeiter k”nnen unterledigte Arbeiten durchfhren
+- Eventuell Urlaub oder Zeitausgleich
+
+Auswirkungen bei Verlust der Vertraulichkeit (wenn Daten nach auáen gelangen)
+==============================================================
+
+Auswirkungen bei Vertraulichkeitsverlust: Imagesch„den, verschlechterte Verhandlungsposition gegenber Kunden und Lieferanten. Folgesch„den wenn die Vorf„lle innerhalb der Branche bekannt werden.
+
+Auswirkungen bei Verlust der Integrit„t (wenn Daten ver„ndert werden)
+==============================================================
+
+Beispiele fr Integrit„tsverlust: Kostenartengruppen werden entfernt, d.h. die Berichte sind falsch. Dies wird erkannt und kann mit Nachbearbeitung kompensiert werden. Falls Kontonummern ver„ndert werden entsteht ein geringer finanzieller Schaden, die Erkennung erfolgt mit den Mahnungen der Lieferanten.
+
+Auswirkungen, wenn rechtliche Bestimmungen nicht eingehalten werden
+==============================================================
+
+Haftung der Gesch„ftsfhrung, falls rechtliche Bestimmungen nicht eingehalten werden."
+SAP Applikation;cefb7c8c-88da-4a8d-9495-23f3ad51a049;
+E-Mail;bc5f3c39-dc2d-4a7d-bc98-2db37b469625;Ein E-Mail-System setzt sich aus mehreren Diensten zusammen, die dem Benutzer den Versand elektronischer Post erm”glichen. 
+File Service;a538c8ef-bc7f-4b1b-9d3c-8fdec9bec151;File- und Printservices stellen als Funktionalit„t innerhalb eines Netzwerkes sicher, dass z.B. nicht jeder Mitarbeiter einen eigenen Drucker am Arbeitsplatz ben”tigt und dass Festplattenkapazit„ten effizienter genutzt werden k”nnen. 
+Geb„ude Wien;610fa975-ff81-43a8-a4b6-22f10e23c799;
+Serverraum001;68acc019-2262-4ab5-a811-507f2a06efba;Der Serverraum 001 wird auch als der groáe Serverraum bezeichnet. 
+Serverraum002;816fe8c7-b870-4077-966d-faf0ab5c2403;
+Stromversorgung-Wien;21cacea3-142b-40ba-87aa-c243741f9906;
+Exchange Applikation;a23fa32d-b606-40ea-bff5-b07fbfaa3554;
+DHCP;5533783b-da33-4640-b2bb-d7ced7cee11f;
+DNS;ae1e8a9d-e2a9-492f-8d4f-d0aa067d2cd3;
+Active Directory;6224ac82-936b-46a0-aed2-c571dc74d402;
+Oracle;a631aaf3-d0a7-4a50-921f-006917ede708;
+Firewall1;64a5e21e-fe10-417e-bd4e-134d5d4b223b;
+Firewall2;3c8f81f2-68aa-4055-a02b-c441d35eef6f;
+Internet-Anbindung;626540dd-6f30-4a07-873f-78f49b6c2e59;
+LAN Landstrasse;9cf94ef3-5521-4e3f-9bd0-2d693645c111;
+MPLS Netz;63230df3-49bf-4182-ad0e-ab42b1dc0ae5;
+Node202;fc6399d2-15c3-4537-ad47-34cbd2431b5e;
+Basisdienste;78fd5707-d2a1-481e-b8cd-7736bca65103;Die Basisdienste sind fr den Benutzer direkt nicht sichtbar, gew„hrleisten allerdings das reibungslose Arbeiten auf Netzwerkebene. 
+Windows-Client-OS;9a794241-aa6e-45bc-a645-287cc91ff329;Windows 7
+Standard-Client-Hardware;b48658c9-42da-4167-a682-6f9d44eedd20;
+Server003;5e5130e0-387d-4c4c-84a7-0d4a8b50769e;
+High-Level-Server-Hardware;b03f49df-0af9-48aa-b748-a12799790ca2;
+Unix-Server-OS;48f7b25c-010e-48b5-9c55-c3e369e033c8;Solaris 11
+Cluster;263bade9-a135-4f54-aa54-af7dc31fdfb5;
+Node201;491f1045-019b-4147-b084-3607cff0584f;
+Cluster-Server-Hardware;a5b6ea00-2b08-4748-9b18-1bcff1faed4f;
+Server004;888eb20b-3cd0-4484-b27e-d143eab35e2f;
+Windows-Server-OS;ba265ab1-eed3-489c-9e10-eef0c4f302c3;Windows Server 2012
+Standard-Server-Hardware;33069ba6-7674-464c-9ddf-324bbe7958c0;
+Office Applikation;630d609b-2682-46e8-a850-d7f79400d955;
+LAN-Verkabelung;70339457-fb61-4832-95ba-6d6bcdc608c8;
+Geb„ude Linz;1548650e-3aad-443a-b278-e58798b439c6;
+SAN;84d9471b-91a2-4414-a280-d4029be73207;
+Backup;ce0c4303-ad61-406e-b221-d5c293aefc67;
+Datentr„gerarchiv;1e24e62a-cb9d-480b-a575-6b5e5c408f2f;
+Anwender;87958c2c-9032-4686-aaa6-39dfb719d972;
+Zeiterfassungs-Applikation;60890452-ddac-4028-885e-74b416c06683;
+Service Portfolio Management;e2c4be47-fb87-4862-943e-51eb1909766f;
+Content Security;32634646-da51-4e99-a403-25bb02786c1a;
+SAP Service;758c70a8-d9e7-442d-8cfb-99fb2cca1ed7;SAP ist eine betriebswirtschaftliche Standardsoftware mit dem Ziel, automatisierbare Abl„ufe in ein Anwendungssystem zu integrieren und zur Verfgung zu stellen. 
+Active Directory Service;23d96313-e217-4e66-8f80-3438d1daeaa3;Bei einem Active Directory handelt es sich um einen Verzeichnisdienst, der es erm”glich, ein Netzwerk entsprechend der realen Struktur eines Unternehmens oder seiner r„umlichen Verteilung zu gliedern. 
+Projektplanung (Frontend);3188c95d-8c9e-4bdc-acb7-c965f3bd4781;Der Frontend-Bereich der Projektplanung soll den Mitarbeitern der Forschungs- und Entwicklungsabteilung ein effektiveres und effezienteres Arbeiten erm”glichen. 
+Backup Service;09f50237-5e50-4eaf-b7f0-1c7b7af50435;Um unternehmenswichtige Daten auf l„ngere Zeit zu sichern und auch bei Ausf„llen eine rasche Wiederaufnahme des IT-Betriebs zu erm”glichen, ist eine Backup--L”sung unumg„nglich. Der Datenverlust muss stets so gering wie nur irgendwie m”glich gehalten werden. 
+Service Asset and Configuration Management;6b540922-d73e-4f97-8a6e-4c14a9cdbb8a;
+Service Strategy;0222f952-9d9c-40e3-8af2-882329931e52;
+IT Service Continuity Management;06338c24-8191-4d0c-afb2-cb1328440542;
+Availability Management;c918aad0-8e1e-4357-9a30-e6e0762ce99c;
+Netzwerk-Architektur;0ff5ea53-f2ec-48f5-93f0-82eb7017d949;
+Continual Service Improvement (CSI);106e1142-9c79-48fc-8510-1081c4a8db09;
+Service Desk;d9acbe42-03f1-4c74-a05d-429ac4e636f2;
+Supplier Management;53019af3-e979-47e5-8207-21b1bdb3b282;
+Service Operation;cfa3a092-bdb7-4f68-9c12-5cfde96d007c;
+Request Fulfilment;e088f56a-a406-4932-b9b6-b350a27bc08f;
+Evaluation;558fbc92-415d-4f82-8003-436b0b0e53cf;
+SLA Internet Service Provider;dd904b95-4f43-46cf-af2e-b90cd33de377;
+Risk AG (ISMS);e08a7b4b-0631-4c3f-b136-ef8d5041544c;
+;60ca34eb-bf80-4e82-914d-ac8ee327f11c;kein Folgeschaden
+;8ffeb5ed-b9d3-4c52-b3e8-78c82811cd6e;kein Folgeschaden
+;6dfe4bc3-e40d-4b60-9ccc-c66800ef8aa6;+ Folgeschaden
+;597b05da-e456-437f-98f7-222a8390d476;+ existenzbedrohender Folgeschaden
+;5d3ff206-cd1f-47e9-b202-0f56e78cff51;kein Folgeschaden
+SpeedDev SLA;9086e096-6954-47e9-bb56-27c37e820586;
+Belegarchivierungs-Service;e7864397-4c98-45ac-affa-37fe12c70c68;Bei der Belegarchivierung handelt es sich um eine zertifizierte Archivierungsl”sung und revisionssichere Ablage. Die Belegarchivierung  wird in der RiskAG ber einen SLA betreut.
+Server028;897189f7-e19f-46f6-bc39-30a6dfb77bd4;
+Incident Management;4c065191-e3cd-4814-a18a-da34c4b7136f;
+Netzwerk Services;316a2e2d-2cbe-43ba-972c-e039e37d5753;Die Netzwerk Services repr„sentieren das zentrale Nervensystem eines modernen Unternehmens. 
+IT-Sicherheitsvorfallmanagement;2cfddc61-cf78-423a-81ea-9e2d35181d46;
+DHCP Service;da617451-1c23-41ab-897a-9e7c0a319414;DHCP versorgt die PCs mit den notwendigen Informationen ber die Netzwerkkonfiguration. 
+Belegarchivierung- Dokumentenmanagementsystem;cb4be686-60fc-4377-b154-83ca2c333d57;
+Belegarchivierung;50249c0d-df34-4754-96c1-04b0c3e59542;Das Dokumentenverwaltungssystem wird von einem externen Lieferanten bezogen. Der Zugriff erfolgt ber eine Citrix Application-Delivery-L”sung. 
+IT-Prozesse ITIL V3;c05a2c5e-d145-4e21-8584-f80114cb8106;"ITIL V3 fr den Einsatz im Unternehmen deren IT-Prozesslandschaftmit grunds„tzlich auf ITIL basiert. 
+
+Anmerkung: Fr Unternehmen mit ITIL V2 ist eine Umsetzung in Verbindung mit den ITIL V3 Bausteinen insofern sinnvoll, dass eine etwaige Aktualisierung einfacher vorgenommen werden kann. 
+
+Die Verwendung von lediglich einer ITIL-Version (entweder ITIL V2 oder ITIL V3) ist zu empfehlen.
+
+ITIL V3 ist der aktuelle Standard fr Servicemanagement. "
+Exchange-Service;05bbaae7-bff0-4cfb-a582-50dd5d6bcb6d;Das Exchange-Service erm”glicht eine zentrale Verwaltung von E-Mails, Aufgaben, Kalender- und Kontaktdaten, sowie ein zentrales Backup der am Exchange-Server gespeicherten Daten. 
+Standardarbeitsplatz MAC ;6fe068f4-fcfe-4168-b1ab-b138f28d5138;
+Stromversorgung-Linz;3d1c1cd9-50a4-4b69-a755-64ea3c590fe3;
+Demand Management;3a8b6271-8efa-4980-b274-9604d85bc9b0;
+IT-Prozesse;5d14b780-4a9e-4737-84af-23775643fd2f;
+Release and Deployment Management;0d84a50d-752e-4c25-9a98-f955def5869e;
+Fax Infrastruktur;eadb62d8-fcec-48da-ba16-7bdbcb764487;
+Anwenderregelungen;fd84844d-9353-4547-bd10-013aa9a718a2;
+Service Catalogue Management;b6396f2d-d7bb-417f-94c1-dc6b9a69b473;
+Financial Management;53ae41df-dbb6-42f4-b88f-46c4c53292e3;
+Node101;64238289-00e8-41b2-b51b-9b6b3fe400cb;
+Event Management;9a796e18-a663-4839-8b3f-874a9f5f3346;
+Drucker und Fax Infrastruktur;e20285db-92ef-44b0-9e00-6f8e057d7ea8;
+Cluster002(gleiches RZ);a8efc97c-b7da-4347-9a62-b86c91b53142;
+Apache Webserver;3d73cb69-8875-442f-b2b9-672c892d7182;
+Capacity Management;d2420fc9-8102-43d0-b2be-41562ae505a9;
+Transition Planning and Support;cb0a1f86-2b9a-4de0-b0f7-d77c4a55e667;
+Cluster001(Geocluster);255f24bf-c4f8-4a49-ba6d-efb854df7a31;
+SAP;f3c72797-3aab-486f-a656-9e518d00717c;SAP untersttzt die Abwicklung s„mtlicher Gesch„ftsprozesse eines Unternehmens wie Buchfhrung, Controlling, Vertrieb, Einkauf, Produktion, Lagerhaltung und Personalwesen.
+Projektplanung;fa6e2b6d-c22e-480e-9cd1-5d7fa5a435f8;"Die Projektplanung dient in der RiskAG dazu, Projekte in der Forschung- und Entwicklung zielgerichtet voranzutreiben.
+Das Projektplanungs-Service umfasst die Planung, Durchfhrung, Steuerung, Kontrolle und Analyse in Bezug auf Projekte. "
+Citrix Umgebung;e7da2d58-fb86-4cf6-bf88-0a71c3b98305;
+Strategy Generation;6808f406-1c6e-4c21-8b9c-012fdc66b8f6;
+Drucker Infrastruktur und Printservice;07ff341b-0f88-42c3-9fc6-9e0004704883;
+ProxyAppliance;9cea35f3-86b9-4531-a747-6e1ac2a10c5d;
+Problem Management;87388aba-fb99-4d3d-b9a9-29afeaf55150;
+Proxy Service;deaa8b59-e5c8-4be3-b416-dea68771f119;
+Server005;05099416-9b12-48d7-b741-7c3ae508061b;
+Technikraum;9ef220df-8501-4385-8934-5bbf8a70bf23;
+Knowledge Management;6d9694d7-f4cd-4eed-992b-343f6cc47dd8;
+Zeiterfassungs-Service;9437b602-dd47-4b1a-997a-48af3d5511ea;Das selbstentwickelte Zeiterfassungssystem untersttzt das interne Arbeitszeitmanagement, indem Anwesenheitszeiten, šberstunden, Fehlzeiten, aber auch Kapazit„tsauslastungen sowohl von ganzen Abteilungen als auch vom einzelnen Mitarbeiter erfasst werden.
+Blade-Server-Hardware;d0a67706-8864-4406-883c-c8dc7b9dad44;
+7 Step Improvement Process;49d5d147-ee10-4ff5-860a-2b93d4c24682;
+Information Security Management;f1331df5-e26e-4250-a3bb-b26e82143b49;
+Change Management;85ddbb8a-a937-4ceb-a27e-73668f3874d1;
+Standard Arbeitsplatz;bb4a2598-37e4-4797-b67e-95576ea28744;
+SpeedDev (Cloud Service);01998caa-87b8-4fa5-94ef-07bb2407fcf7;SpeedDev ist ein Service zur Durchfhrung von hochkomplexen Berechnungen. Da in der Risk AG keine ausreichende Rechenkapazit„t zur Verfgung steht, wurde ein SLA mit dem SpeedDev Cloud Service Partner eingegangen. 
+Zeiterfassung (Eigenentwicklung);7caee347-583d-4401-b53c-8ed2c2cad818;Die Zeiterfassung erm”glich die Datenerfassung von Arbeitszeiten des Arbeitnehmers durch Erfassungsger„te und wird innerhalb der Betriebswirtschaft thematisch dem Personalwesen zugeordnet.
+Node102;afcccb44-996f-469a-a154-b79bbf400856;
+Oracle Service (Backend);ec6b2745-0fe3-4695-8d44-88a609ac28ab;Das Datenmanagement-System von Oracle untersttzt diverse andere Services des Unternehmens.
+DNS Service;15b1a45a-aa0f-4d9d-b797-d368383f11f6;DNS sorgt dafr, dass Domain- und Rechnernamen aufgel”st werden. 
+Access Management;d31a4477-34b5-4162-bd68-8a64ec38a19a;
+CITRIX Service;65130ae8-b678-4072-9478-f82b64e3ff48;Citrix bietet in erster Linie Applikations- und Terminalserver-Anwendungen. 
+Smartphone/Tablet;6e611b0d-0c10-423e-a75e-b84d10cce459;
+Service Level Management;b59b9bcf-3098-405e-adfa-5d323f1d3e3b;
+FTP-Server;09c330bf-8b5e-4ea7-ab4b-2f81e1b1e7b2;
+Server027;ffa5cacc-daa4-4a52-ab03-9f5e0c7b21ff;
+Projektplanung-Webanwendung;5afb482f-8cbc-48f8-a07e-9fd8f73574ea;
+Proxy;0f67f5ae-2493-4a56-bd76-0f40a1816314;
+Service Transition;33dc72be-fe20-4324-87e2-22f38807bdea;
+SAP Service (Frontend);457eebe5-91cb-4922-b941-6ced87693614;
+Service Design;cc9e1270-ae91-40dc-bf15-296012961ddb;
+SpeedDev Cloud;21872ca5-96a3-405c-95ea-7276b7c95fe8;
+Virenschutz-Service;f7d810eb-d012-4fee-9b0e-b7526fc4aacd;Das Virenschutz-Service dient dazu, bekannte Schadsoftware aufzuspren, zu blockieren und ggf. zu entfernen. 
+Identity Management System;39ae30a0-bdd8-4cff-a12c-518e9add4e09;
+Router/Switch;d8565a26-f903-4084-b3ca-4ca28739a1c6;
+Office;4fe17769-9c46-4e7b-bd9c-628fcff91c79;Durch die groáe Programmvielfalt kann Office diverse Aufgaben bew„ltigen.
+Projektplanung Service;3aa9682b-63e4-499a-8ba0-357fb6fd632f;
+Internet-Service;8ed3ff5f-027b-4cd2-8e2d-8731ae5b148e;Um das Bereitstellen von Inhalten zu gew„hrleisten, beinhaltet der Internet-Service die entsprechende Anbindung und Sicherheit durch Schutzmechanismen wie Firewall, Proxy, etc..
+Firewall Service;90333629-2f18-4538-bcf8-42fb28b7d64c;
+VMWare-Server;ff76d261-c663-4e85-a134-ff4cfc88c4a7;
+Service Validation and Testing;1d869da5-1a25-42cb-89c3-986ab630a0b3;
+MAC OS ;c78d6559-2abf-4751-b0d1-033f05e348ef;
+ISO 27001 Compliance Check;bb3c65cb-9f44-44fe-a1d3-44a214a6f0f3;
+iOS Betriebssystem;fde9b7c9-96a6-4415-9d17-f5d81b1cdd32;
+Angeh”rige der Mitarbeiter;61c3b76e-5b5a-41a6-9b3d-2f0f5ede145a;z.B.: Kinder oder Partner der Mitarbeiter
+Angeh”rige Stammdaten fr Mitversicherung;d98349ae-ce68-4aeb-a453-1cfbcdf4c4c2;Angeh”rige Daten fr die Mitversicherung sind: Name, Geschlecht, Familienstand, Geburtsdatum, Telefonnummer, Beziehung zu Mitarbeiter, SVNR
+Bank;c2ba0506-0c10-4a42-afdf-af93177379fc;
+Bewerber;59423ed7-f7d7-424e-b480-fc053fb0a101;
+Ehemalige Mitarbeiter;58389bcd-4059-4a43-8ab5-1227f2bf5066;
+Externe Dienstleister;7cd102ff-d6dc-4513-92aa-262bab50a715;
+Finanzamt ;6cf9c5b3-da5a-47dd-aa05-0cbf578f4eea;"Finanzamt Linz
+Bahnhofplatz 7
+
+Telefon fr Privatpersonen: 050 233 233
+Telefon fr Unternhemer/innen: 050 233 333
+Telefax: 050 233 5928002
+
+Bankverbindung: BAWAG P.S.K
+IBAN: AT03 0100 0000 0552 4464    BIC: BUNDATWW
+DVR: 0009466"
+Firmenbuchgericht;0248bd80-8bb4-45dc-8668-e5f68f39bb05;
+Gesch„ftsfhrer / Prokurist;5a3f43f3-a244-4c88-b46c-06e4e59fc61b;
+Gesch„ftsfhrung Stammdaten;5cfc2d5d-7264-43ef-ba64-8e8ab332cc0c;Daten der Gesch„ftsfhrung sind: Name, Geburtsdatum, Adresse, Staatsangeh”rigkeit, Geschlecht, ob Gesellschafter oder Gesellschaftsanteil.
+Interessenten;8abb2daf-ef93-462a-a025-b786856fe0a5;deren Ansprechpartner
+Karenzierte Personen;e1af8d21-94ef-4d31-8b4e-dbc4f1648113;Mtter / V„ter, die in Karenz gehen bzw. sind. 
+Kunden;19c8c017-d261-429f-9966-c75ea386f106;"deren Ansprechpartner 
+"
+Kunden EU;5a4e2f36-a0f6-454a-a9c3-b1ca4221e908;
+Kunden Inland;c0f8ebb3-2109-4580-bcc7-1b7df3aef03e;
+Kunden Schweiz;1c0624b7-c1f4-46cb-8c33-edae141e8e8c;"Kein EU-Staat
+Die Grundverordnung wird aber vermutlich auf Grund der EU Niederlassungen oder Tochtergesellschaften fr viele Unternhemen unmittelbare Wirkung haben. 
+Oder aber auch wenn Daten von in der EU ans„ssigen Personen bearbeitet werden, um diesen Waren oder Dienstleistungen in der EU anzubieten, oder wenn Daten dazu dienen, das Verhalten der Person zu beobachten (Profiling). 
+Diese Unternehmen mssen einen Vertreter in der EU benennen."
+Kundenkontaktdaten;c018a640-86ad-417d-aaff-1f9c2f09804a;Name, Telefonnummer
+Leistungs- und Lieferungsdaten;0256ea84-3c24-4a01-95cc-8b76864176cf;Daten sind unteranderem: Art der Leistung, Ort der Lieferung, Daten der Verzollung, Versicherung, Steuerpflicht
+Lieferanten;885edd23-a972-4bf9-a68a-685b9e48cdda;
+Lieferantenbankdaten;69525a38-470d-469a-8fec-c954f78adb81;
+Lieferantenkontaktdaten;1b0869ef-f989-4f29-8363-98397b8b6eae;Name, Telefonnummer
+Lieferantenstammdaten;1c13b42b-43dd-448e-b76a-133b40084da4;Daten sind: Name, Anrede / Geschlecht, Telefonnummer, Zugh”rigkeit zu Unternehmen/Konzern
+Mitarbeiter;f2aa7e26-898e-4f83-b790-7fcf39f753dd;
+Mitarbeiter Bankverbindung;5f9a7fbb-2e4c-4e60-a9a7-1b024bf49709;
+Mitarbeiter Best„tigung Karenzierungsgrund (Art. 9);4c2d5b2d-ca08-4104-944f-6cc98c6b81a4;
+Mitarbeiter Gehalt;e90aa6ec-bf89-4424-b6d5-47c325caa8cc;
+Mitarbeiter Jahreslohnzettel ;2f56c8e6-4900-45f2-b05f-9ff26bc10344;Im Mitarbeiter Jahreslohnzettel sind enthalten der Name des Arbeitgeber, Name des Arbeitnehmers, Personalnummer, Eintrittsdatum, Grundentgelt, Normalstunden, šberstunden, Pr„ien, Bruttobezug, Gesetzliche Abzge, Auszahlungsbetrag, Zulagen und Zuschl„ge.
+Mitarbeiter Krankmeldung;8a827b88-a6dc-4bab-a6a1-0acf6d93ce8d;
+Mitarbeiter Name;ab8228c2-7746-4ece-bccb-4f7fd5fe324f;
+Mitarbeiter Sozialversicherungsnummer;280dedd2-b2f9-465a-8690-636941872a40;
+Mitarbeiter Strafregisterauszug (Art. 10);f295f821-c1e2-470b-8eb4-022c6bd74567;
+Mitarbeiterstammdaten;9cbc7206-8efd-42f3-b81e-cc3f15e41e97;Daten sind unteranderem: Name, Geburtsdatum, Personalnummer, Geschlecht, Organisationseinheit, Telefonnummer, Adresse, SVNr, Sozialversicherungstr„ger, Eintrittsdatum, Vordienstzeiten, T„tigkeit im Unternehmen, Foto, Religionsbekenntnis, Netto/Brutto Entgelt, Qualifikationen, Familienstand
+Risk AG (DSMS) - Verantwortlicher;6c4b30d1-884c-4acb-9f2e-ed5e8054f125;
+;efb2456f-f48c-44cd-9301-d1103be2e91a;
+;33052756-a61a-4341-a663-351af71a9a84;
+;74fa8a60-f9bf-40a9-aeaa-bd51d73db8a9;
+;942337d9-0044-4feb-9a27-22a530e08fc2;
+;f7d8472b-f3eb-4099-9762-60cfbac8c916;
+™sterreichische Sozialversicherung;78e90469-7c0f-4515-bfe5-d16dd3f62823;"Hauptverband der ”sterreichischen Sozialversicherungstr„ger
+1030 Wien
+Kundmanngasse 21
+Telefon (allgemein): +43 (0)1 71132-0
+Telefon (technische Untersttzung): +43 (0)5 01243313
+Fax: +43 (0)1 71132-3777"
+Praktikanten;d2f3fbc4-062b-4372-8363-f857e0a889e6;
+Rechtsanwalt;dcdd6729-3851-498c-9f2f-7dc4e17525ab;
+Schadensf„lle;086e69e8-7c41-4755-9c35-20806e453e25;
+Schulungsteilnehmer;6af8eebb-8dff-48fa-b8c6-1e9f63ab8baa;
+_Verarbeitungst„tigkeiten;e1ad4bfc-7e6e-4128-98b4-5033bab680be;
+Versicherungsdaten;f97a8d42-cfba-412d-b3a6-77635ea2fa4f;
+Versicherungsmakler;bc778a53-d767-418f-a610-f2b6c42b5e76;
+Versicherungsunternehmen;1864b8ee-8186-4652-a827-d3b5303cdd64;
+Datenschutz-Folgenabsch„tzung;d9e6e8fb-028c-49ca-b44e-604d5cbca458;"Die Datenschutz-Folgenabsch„tzung entspricht im Wesentlichen einer proaktiven ""Vorabkontrolle"" der geplanten Verarbeitung bezogen auf m”gliche Einflsse auf Recht und Freiheit des Betroffenen. Diese DPIA ist immer dann durchzufhren, wenn besonders schtzenswerte Daten nach Art. 9 bzw. Art. 10 EU-DSGVO verarbeitet werden oder die Verarbeitung dazu bestimmt ist, die Pers”nlichkeit des Betroffenen, einschlieálich seiner F„higkeiten, Leistungen oder seines Verhaltens zu berwachen. "
+Datenschutzrechtlicher Freigabeprozess;59287a47-b439-4a31-ae7f-0dd1c478d4ef;"Im Rahmen des Datenschutzrechtlichen-Freigabeprozesses wird berprft, ob eine Verarbeitung datenschutz-konform ist. Ist diese konform, so muss eine PIA durchgefhrt werden, bei der die Bedrohung der Rechte und Freiheiten der Personen abgesch„tzt werden. Ist das Ergebnis der PIA ein ""hoch"" bzw. ""sehr hoch"", so muss eine Folgenabsch„tzung durchgefhrt werden. Bewertung unterhalb ""hoch"" k”nnen freigegeben werden. 
+Ist die Verarbeitung nicht datenschutz-konform, kann keine Freigabe erteilt werden. "
+Dokumentations-, Informations-, Auskunfts- und Meldepflichten;5c81cc82-ff55-4dbb-9437-1ea516d3d415;"Dem Verantwortlichen obliegt es alle Prozesse zu dokumentieren. 
+
+Zum Zeitpunkt der Erhebung, hat der Verantwortliche die Pflicht, den Betroffenen zu informieren ber: Name und Kontaktdaten des Verantwortlichen bzw. dessen Vertreter, Kontaktdaten des Datenschutzbeauftragten, Zweck und Rechtsgrundlage der Verarbeitung, das berechtigte Interesse, Kategorien von Empf„nger, Drittl„nder oder internationale Organisationen, die Daten erhalten. Weiters ist die Speicherdauer der Daten, die Rechte des Betroffenen und ob Profiling betrieben wird und die dahintersteckende Logik, anzugeben. 
+
+Der Betroffenen hat das Recht auf Auskunft ber seine personenbezogenen Daten. Folgende Informationen sind anzugeben: Verarbeitungszwecke, Kategorien personenbezogener Daten, Kategorien von Empf„nger, Speicherdauer, Rechte des Betroffenen, die Herkunft der Daten, und ob Profiling betrieben wird und die dahintersteckende Logik. 
+
+Im Falle einer Verletzung des Schutzes personenbezogener Daten meldet der Verantwortliche unverzglich und binnen 72 Stunden, nachdem ihm die Verletzung bekannt wurde, dies der zust„ndigen Aufsichtsbeh”rde und dem Betroffenen. Die Meldung kann entfallen, wenn es nicht zu einem Risiko der Rechte und Freiheiten der natrlichen Person fhrt. Wird nicht innerhalb von 72 Stunden gemeldet, so muss eine Begrndung fr die Verz”gerung der Beh”rde vorgelegt werden. "
+DSMS-Prozess;77fc459e-26a2-4698-8699-06cceda2c82a;Implementierung des Datenschutzmanagements als eigenen Prozess im Unternehmen. 
+Datenbermittlung - Angebotserstellung Mitarbeiter;5f7b1211-7b05-4e6f-9263-a69e30de8029;Angebote, mit enthaltenen Strafregisterauszug, werden an Kunden im Inland, in der EU und Schweiz bermittelt (sofern gefordert.) 
+Angeh”rige Stammdaten;fda68d3b-6ad9-4abf-b8df-f3a5666ed1b5;Name, Geschlecht, Familienstand, Geburtsdatum, Telefonnummer, Beziehung zu Mitarbeiter, SVNR
+Auftragsabwicklung;16bccebb-41f9-4690-ab3f-1bb8c800d4fb;"Auftragsabwicklung zu den Kunden
+Projektabwicklung"
+Ausgeschiedene Mitarbeiter Daten;c9b06556-dedd-477b-b744-4bd775353b1b;"Mitarbeiterstammdaten (Name, Adresse, Titel, Personalnummer, Eintrittsdatum (Austrittsdatum), Grundentgelt), Krankmeldungen, Sozialverischerungsdaten (SVNR, Sozialversicherungstr„ger,etc), Bruttobezge, Absetzbetr„ge, Besch„ftigungsverh„ltnis, Normalstunden, šberstunden, Pr„mien, Gesetzliche Abzge, Auszahlungsbetrag, Zulagen und Zuschl„ge
+
+"
+Beantragung Mitversicherung;a85f45cb-a325-410e-b433-e3c12b0ca671;Mitversicherung von Kindern bzw. Partnern (Ehegatte/in).
+Bewerberdaten;c13b2586-5a80-4b48-8f5d-0fc869349e4e;Name, Geburtsdatum, Staatsbrgerschaft, Geschlecht, Adresse, Telefonnummer, E-Mail, Foto, Ausbildungsdaten, Berufserfahrung, Lebenslauf, Sprachkenntnisse, spezielle Berufserfordernisse, Religionsbekenntnis, Gesundheitsdaten
+Bromanagement;58565acd-2d23-4a85-9d22-b6b0e3283611;
+Datenschutz Management;ead39948-1dbb-4499-99b8-25732c4b2098;Das Datenschutz-Management wird mit dem Ziel betrieben, fr alle verarbeiteten personenbezogenen Daten von betroffenen natrlichen Personen im Sinn der Datenschutz-Grundverordnung, die durch die Verarbeitung durch die Muster AG als Verantwortlicher betroffen sind, den vom Gesetz vorgegeben Schutz angedeihen zu lassen. Neben dem Schutz der Pers”nlichkeitsrechte der betroffenen Person wird mit dem DSMS auch das Ziel verfolgt, der zust„ndigen Beh”rde den Nachweis der Ordnungs- und Rechtm„áigkeit nachvollziehbar belegen zu k”nnen.
+Datenbermittlung - Abrechnung;424bc812-5852-451a-ac55-f8753803c8c4;
+Datenbermittlung - Bank;52230203-f6a2-47ff-94d7-a1b0fd74e1db;Die Lohn- und Gehaltsdaten gelangen ber ELBA an die Bank zur šberweisung. 
+Datenbermittlung - Firmenbuch;a6f2fcda-e0a3-4369-97aa-0b45de64b00e;Die Daten werden unteranderem fr Brgschaftsvertr„ge und Gesellschaftsvertr„ge verwendet.
+Datenbermittlung - Jahreslohnzettel;54b109de-f165-4e68-896a-0293f19ced0f;"Lohnsteuerinformationen werden von der Personalverrechnung an das Finanzamt bermittelt. 
+
+Die Sozialverischerung und das Finanzamt bekommen j„hrlich einen Jahreslohnzettel, der die Informationen ber die Mitarbeiter enh„lt. 
+"
+Datenbermittlung - Karenzierung;7280e303-2ccb-4a98-a77b-542219dc226c;
+Datenbermittlung - Krankmeldung;e965b27f-3dca-44ca-8284-ffbaf3ec1faa;Die Krankmeldung gelangt ber den Steuerberater an die Sozialversicherung.
+Datenbermittlung - Mitversicherung;67ce12a4-283e-43aa-8639-1edd1382c06c;"Die Daten der Angeh”rigen der Mitarbeiter werden ber den Auftragsverarbeiter ""Lohnverrechnung""  an die Sozialversicherung bermittelt. "
+Datenbermittlung - Personalmanagement Sozialversicherung;fa4f706d-7b57-4340-993b-cce8211aff9e;Die Mitarbeiter bei der Sozialversicherung an- bzw. abmelden. 
+Datenbermittlung - Verischerung;8d6020ae-13f8-4813-b9bf-f1e6e42bcbfc;
+Datenbermittlung - Versicherungsf„lle Logistik - Kunde;c6011297-ef6a-4ce6-ad21-c676228315f7;
+Datenbermittlung - Versicherungsf„lle Logistik - Lieferant;e6a1c873-0d3d-418b-b1d2-c52b33e2749a;
+Auftragsdatenverarbeiter SpeedDev;79b66269-346e-4e80-bb16-8267763538d1;
+Erstellen von Best„tigungen ;681b3158-d1d6-4a25-9826-a53b263679d5;Ehemalige Mitarbeiter k”nnen nach Beendigung des Dienstverh„ltnisses diverse Best„tigungen und Dokumente anfordern (z.B.: Aush„ndigen eines Lohnzettels, Dienstzeugnis). 
+Externe Dienstleister Daten;e6c20e88-2f98-4b59-bf6a-3ecca6508940;Name und Telefonnummer, Leistungsentgelt, Bankverbindung
+Externe Schulungen;5136d856-6a21-4cd5-bb78-a4db551c1368;Durchfhrung externer Schulungen an Kunden oder auch an Interessenten. 
+Firmenbuchangelegenheiten;2549af8b-ac34-43ef-8903-e427f36709b8;Firmenbuchangelegenheiten betreffen das Firmenbuch bzw. Vertr„ge. 
+Fuhrparkmanagement;ad0d2e02-b768-4b0b-8cc9-52a959697e6a;Firmenauto
+Gesch„ftsfhrung Stammdaten;4c5e1942-d565-4606-9a53-964eff66493d;Name, Geburtsdatum, Adresse, Staatsangeh”rigkeit, Geschlecht, ob Gesellschafter oder Gesellschaftsanteil.
+Interessenten Kontaktdaten;7e7bc411-875e-438d-b0c3-9a7f08b427c2;Name, Telefonnummer, E-Mail, Adresse, Funktion im Unternehmen. 
+IT-Betrieb;57aed23e-ef55-42a2-b59c-6fb1c91ae632;
+Kontakt- und Terminverwaltung (Konzern);9c30d86b-4934-4333-b27f-909c50c6f849;
+Krankmeldung;ce7e9344-d029-4f6d-abae-3aacf4f3a325;"Arbeitnehmer sind verpflichtet, den Arbeitgeber im Falle einer Krankheit von ihrer Arbeitsunf„higkeit unverzglich in Kenntnis zu setzen. Dazu kann vom Arbeitgeber die Vorlage einer „rztlichen Best„tigung ber die Arbeitsunf„higkeit verlangt werden. Diese kann bereits ab dem ersten Tag der Arbeitsunf„higkeit verlangt werden, ist oft jedoch erst ab dem vierten Tag der Krankheit erforderlich.
+
+"
+Kunden Bank und -bonit„tsdaten;90b032f0-9cd0-4cfc-b51c-ebe9042fec9b;Daten sind unteranderem: Bankverbindung, Kreditkartennummer, Daten zum Zahlungs- und Leistungsverhalten
+Kunden Stammdaten;b7bb4bf2-c8d6-4ffc-9e23-a060584e060f;Kundenstammdaten sind: Name,Anrede,  Adresse, Firmenbuchnummer, UID (Ust. ID), E-Mail-Adresse, Telefonnummer, Geburtstag, Zugeh”rigkeit zu Unternehmen
+Kundeneigenschaften;5f4abf75-60c4-4953-9834-c66db5d5671c;Kundeneigenschaften sind unter anderem Ums„tze, Zahlungsverhalten, Ansprechpartner und Angebote an den Kunden.
+Leistungs- und Lieferungsdaten;e9cfde36-2631-4247-bb4d-477b9cc4ab11;Daten sind unteranderem: Art der Leistung, Ort der Lieferung, Daten der Verzollung, Versicherung, Steuerpflicht
+Leistungserbringung;50a1591d-11c4-40be-959c-ecbb2bd4ab61;
+Leistungsverrechnung;04ff8491-2f54-4331-818e-d8109ce0e20e;
+Lieferanten Bankdaten;bec491b0-f745-4dee-9559-d3cfe5b455cd;
+Lieferanten Stammdaten;36ccd670-356c-47fa-b2a2-f7e1daa011e5;Daten sind: Name, Anrede / Geschlecht, Telefonnummer, Zugh”rigkeit zu Unternehmen/Konzern, Adresse
+Lieferantenmanagement;85185285-c1e7-4369-b253-7770d7c662b4;Es liegt im berwiegenden Interesse des Konzerns nur geeignete Lieferanten heranzuziehen und gemeinsame, objektivierbare Vergabekriterien zu verwenden. Der Eintrag des Lieferanten erfolgt nach entsprechender Information. Lieferanten, die keinen konzernweiten Eintrag wnschen, werden auf Verlangen gestrichen.
+Lohn- und Personalverrechnung;08dbdfa8-c120-4e6b-b1e4-9abe732d1709;"Die Lohnzettel gelangen vom Steuerberater an die Personalverrechnung. Von der Personalverrechnung werden die L”hne / Geh„lter ber ELBA an die Bank weitergeleitet. 
+
+Lohnsteuerinformationen werden von der Personalverrechnung an das Finanzamt bermittelt. 
+
+Die Sozialversicherung und das Finanzamt bekommen j„hrlich einen Jahreslohnzettel, der die Informationen ber die Mitarbeiter enth„lt. "
+Marketing - Interessenten;e9d7cb06-c6e4-4238-b4bb-dfc6f9b8ca68;"Zusendung, und Information von Produkten und Dienstleitungen
+"
+Marketing - Kunden;834bd714-5c5d-4171-9580-13610e0293e8;"Zusendung, und Information von Produkten und Dienstleitungen
+"
+Mitarbeiter Aus- und Fortbildungsdaten;d430bf8b-64bd-4363-aa0e-0b5860a37350;Fortbildungsnachweise, Zeugnisse, Zetifikate, F„higkeiten
+Mitarbeiter Bankdaten;317271bf-571d-49d4-b8d0-f2fb9dc5e0e6;unter anderem Bankverbindung
+Mitarbeiter Gesundheitsdaten (Art. 9);aa7b80f4-3f60-4e60-8e3c-fdb4a3505871;"Arbeitsunfall, Mutterschutz, Karenzurlaub, Grad der Behinderung, Fhrerscheindaten, Visum
+
+Fhrerschein:
+L„nderkennzeichen des jeweiligen EU-Staates
+(Pers”nliche) Daten, die mittels Laser in die Karte ""eingebrannt"" werden, in folgender Reihenfolge: Name (1.), Vorname (2.), Geburtsdatum und -ort (3.), Ausstellungsdatum (4a.); Ablaufdatum (4b.) (Scheckkartenfhrerscheine, die ab dem 19. J„nner 2013 ausgestellt wurden, sind fr die Dauer von 15 Jahren befristet); Ausstellende Beh”rde (4c.), Fhrerscheinnummer (5.)
+Laserkippbild: Je nach Perspektive ist entweder das Foto oder das Geburtsdatum zu sehen
+Taktile (d.h. fhlbare) Beschriftung
+Foto, das mittels Laser in die Karte ""eingebrannt"" wird; darin befinden sich taktile (d.h. fhlbare) Elemente, insbesondere in der linken unteren Ecke
+Fhrerscheinklassen
+Unterschrift, die mittels Laser in die Karte ""eingebrannt"" wird
+Fhrerschein gltig ab ?
+Fhrerschein gltig bis ?
+Zahlencodes (z.B. bei Brillentr„gerinnen/Brillentr„gern) --> Art. 9
+
+
+Visum:
+Staat fr welches das Visum ausgesetllt wurde, Rahmengltigkeit (wie viele Tage), Visumtyp, Anzahl der Einreisen, maximale Gesamtaufenthaltsdauer, Ausstellungsort, Ausstellungsdatum, Anmerkungen (Aufenthaltszweck, Beschr„nkungen, Erwerbst„tigkeit, Nebenpflichten,..), Name, Staatsangeh”rigkeit, Geburtsdatum, Geschlecht, zum Teil Gesundheitsdaten (Impfnachweis - Art. 9)
+
+"
+Mitarbeiter Lohn- und Gehaltsdaten;198aef36-4d7b-44a6-bee9-8f4c33e72e33;
+Mitarbeiter Marketingdaten;6577e860-68ce-4761-bbb6-80a1e5026803;Name, Video, Foto
+Mitarbeiter Sozialversicherungsdaten;28234e99-c79a-431e-ac4b-332fd801d506;Beitragsgruppe, Zugeh”rigkeit, Geringfgigkeit, Nacht-Schwerarbeit, Lehrzeit, Art des Bezuges, Daten zur Entgeltfortzahlung, Beitragsgrundlage fr Malsuberechnung, Abmeldegrund, Kndigungsentsch„digung, Urlaubsabfindung, Beitragsgrundlageanmeldungdaten, Erstattungsantrag-Krankenentgelt-Daten, Arbeits- und Entgeltbest„tigung fr Krankengeld / Wochengeld, Mitarbeitervorsorgedaten
+Mitarbeiter Stammdaten;cfa814ae-c8a2-47bd-84e2-309aab45e2e4;Daten sind unteranderem: Name, Geburtsdatum, Personalnummer, Geschlecht, Organisationseinheit, Telefonnummer, Adresse, SVNr, Sozialversicherungstr„ger, Eintrittsdatum, Vordienstzeiten, T„tigkeit im Unternehmen, Foto, Religionsbekenntnis, Netto/Brutto Entgelt, Qualifikationen, Familienstand, Besch„ftigungsverh„ltnis (Ausmaá, Anstellungsverh„ltnis), Massedaten (monatliche variable Gehaltsbestandteile Nachtdienstzulage, Rufbereitschaftsentsch„digung, Einzelberstunden), regelm„áige gebhrende Zulagen und Nebengebhren (Gehaltszulage, Gefahrenzulage etc.)
+Mitarbeiter Strafregisterauszug (Art. 10);b813cb93-5615-4a8e-9c21-c9966440384e;
+Mitarbeiter Zugangsdaten;e3a95fd0-10e6-457d-aa01-a7313751ae01;Mitarbeiter Benutzernamen, Email und Passw”rter. 
+Mitarbeiter Zuverl„ssigkeit nachweisen (Strafregisterauszug);45e506bc-3f58-4b67-b97f-c69304d3f21f;Um die Zuverl„ssigkeit der Mitarbeiter zu gew„hrleisten, werden Strafregisterauszge z.B.: an Kunden bermittelt, die dies ausdrcklich verlangen. 
+Mitarbeiterkarenzierung;cc3be08e-ca69-4046-a86f-7d5657a1e467;Die Karenz(dauer) muss dem Arbeitgeber schriftlich bekannt gegeben werden.
+Personalan- und -abmeldung;d6ca355a-51af-451a-a314-0248cc935eb6;"Mitarbeiteranmeldung und -abmeldung
+
+Dienstgeber mssen neu eintretende Arbeitnehmer vor Arbeitseintritt zur Sozialversicherung anmelden (õ33 ASVG) bzw. binnen 7 Tage nach Ender der Pflichtversicherung abmelden. 
+
+Mindest-Meldung hat zu enthalten:
+- Dienstgeber-Kontonummer
+- Name und Versicherungsnummer / Geburtsdatum des Arbeitsnehmers und dessen Anschrift und Staatszugeh”rigkeit
+- Ort und Tag der Besch„ftigungsaufnahme
+- Daten des Dienstgebers
+
+Vollst„ndige Meldung hat zu enthalten:
+- Dienstgeber-Kontonummer
+- Daten des Arbeitsnehmers
+- Tag der Besch„ftigungsaufnahme
+- Art der Besch„ftigung
+- Beginn der Beitragszahlung
+- Beitragsgruppe
+- Art der T„tigkeit
+- Angabe, welchen gesetzlichen Regelungen das Arbeitsverh„ltnis unterliegt
+- Nebenbeitr„ge
+- Entgelt
+- Daten des Dienstgebers
+
+Anmeldung erfolgt elektronisch."
+Personalentwicklung;7628e907-15bf-4a09-bcda-bb9bc8a6d36c;"Aus- und Weiterbildungen des Personals
+
+Zur Personalentwicklung z„hlen unteranderem interne Schulungen und Beurteilungen des Mitarbeiters. 
+"
+Personalmarketing;af2078d8-9e4b-41e2-8abb-0dddc26d46f6;Videos von Mitarbeitern zu Werbezwecken, Fotos in Stellenausschreibungen, Prospekten und Messen
+Personalplanung und -controlling;083720f4-6873-4212-8bb1-46115124d8c6;Mitarbeiterbesetzung, Bestands- und Bedarfsplanung, Personalschaffung, Einsatzplaung, 
+Personalverwaltung;6b317f78-4438-4bd5-9927-75ff8c4f47a6;"Mitarbeiter Stellenwechsel, Stundenausmaá„nderungen, Erstellen von Best„tigungen
+
+
+
+"
+Personalverwaltung - Bewerber;179ce3d7-5467-43ce-88e0-ada5228b2757;
+Rechnungswesen und Logistik - Kunde;aff6ab53-2647-4728-9ace-a5976fefe09c;"
+"
+Rechnungswesen und Logistik - Lieferanten;0fcad35a-566b-44d6-9ff2-27d4f45f30d5;"
+"
+Schulungsteilnehmer Daten;33f13abb-52d4-4c07-bc90-e98d65d68ceb;Schulungsteilnehmerdaten sind: Name, Adresse, Bankverbindung, Evaluierungsergebnis.
+Technische Untersttzung;620d7832-56d2-4ae8-aa86-a4fc65c65fd0;
+Travelmanagement;0ed25fa8-e178-448c-bd5e-cf606ffd1a86;"Buchung und Organisation von Gesch„ftsreisen (Reisebuchungs- und Abrechnungsprozess).
+
+Die Reisen werden entweder von den Mitarbeitern selbst gebucht bzw. durch die Teamassistenz. Die Dienstleistungen werden von den Mitarbeitern im Vorhinein selbst bezahlt und am Ende jedes Monats wird durch die Buchhaltung das Geld rckerstattet. 
+
+Alle Belege werden manuell in ein System eingegeben. 
+"
+Versicherungsangelegenheiten;4cabe954-6fb1-4de5-909b-a6e5440895eb;Versicherungen wie zum Beispiel Rechtsschutz
+Versicherungsdaten;276d3d4a-07fc-4168-85ed-d865e64b3dcb;Versicherungspolizze, Schadensf„lle
+Vertragsdaten;e545c6bd-56f4-4dde-a7a3-4032cf0d461b;
+Videoberwachung;ef1fc39c-90ad-43cb-bede-468f1b14b979;"Verschlsselte Videoberwachung im Unternehmen (Bro, Serverraum, etc.) und im Auáenbereich an der Hausmauer oder Fassade des Unternhemens
+"
+Videoberwachungsdaten;37cac70d-e757-44ea-9d3a-dc557142366b;Bilddaten, Ort, Zeit, Identit„t des Betroffenen, Rolle des Betroffenen (Opfer, T„ter, Zeuge)
+Zeitwirtschaft;955c79b4-cec7-4c10-a312-898f05b91252;monatliche Dienstplanung, Abrechnung, Arbeitnehmerschutz
+Datenschutzkoordinator;905d3b10-34c6-4a9f-b155-d34b3b28f286;Aufgrund der Gesch„ftszwecke der Muster AG und der damit verbundenen Verarbeitung, wird anstatt eines Datenschutzbeauftragten ein Datenschutzkoordinator bestellt. 
+Mitarbeiter Zeitbuchungen;46c3fa60-2188-499d-ab66-e105dcebe510;
+_Business IT-Services;5d118bdb-106c-454c-bfc5-2cde9b41569c;
+Arbeitsinspektorat;4d10efa6-e17c-4cff-a1a6-12badc2668fd;
+Risk AG (DSMS) - Aufragsverarbeiter;6818e79c-67dd-468b-8510-b0d5d2bb56b0;
+Global AG;0fcab83c-9315-44f1-a556-864fb81d6278;
+IT Dienstleistung;9dffcaa3-a36d-4e5a-bd7a-424a6d87a0e6;
+Services_IT;088b6c27-b53f-4b4c-9082-70a37ba2c5bf;
+Lohnverrechnung;ac939d00-cce2-4e8b-8857-d00517341487;
+SLA Lohnverrechnung;54b0ef68-ea4e-459f-a008-b5634a6a426e;
+Steuerberater;15539505-8f62-4678-9188-20788675b8bf;
+SLA Steuerberater;6ceae441-210c-4d63-9bb4-80a18bd8340b;

@@ -1,0 +1,3237 @@
+Name;ID;BauID;Beschreibung;Verantwortlicher
+Mitarbeitersuche;3dd545db-e5c5-49e0-a936-767286f20317;10;"Tätigkeitsbeschreibung:
+====================================
+Personalrecruiting, Verwaltung von Bewerbungen
+-----------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 2000 Bewerber pro Jahr (Mehrfachbewerbungen möglich), tausende in Summe
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein, Art.10 Daten erst ab Einstellungsgespräch
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: Ja
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A02 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Personal
+Personaladministration Mitarbeiter;5630a382-a48c-4cfd-bafa-a6555d51deaa;10;"Tätigkeitsbeschreibung:
+====================================
+Personaladministration (Personalaufnahme, -verwaltung,- abrechnung):
+Mitarbeiteraufnahme, Gehaltsabrechnung, Abwesenheitsmanagement, Änderungen der Dienstverträge, Arbeitszeitaufzeichnung, Dienstplanung, Beschwerdemanagement, Verwaltung Dienstwohnung, Dienstrechtliche Maßnahmen (Belobigungen, Belohnungen, Beförderung, disziplinäre Maßnahmen), Auswertung Krankenstandstage (dezentral in KHs),
+
+inkl. Personalverwaltung Tischlerei Schlaining (KH Verwaltung OW)
+
+inkl. Zahlungsverkehr (Rechnungswesen)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 2000 Mitarbeiter
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Möglich (Personalcontrolling)
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: Ja
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A02 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";"Leiter Personal;  KH Verwaltung; Leiter Rechnungswesen"
+Personalcontrolling (DSFA ja);e5cd6682-8d2f-45a6-a8e6-d921b1d4edbc;10;"Tätigkeitsbeschreibung:
+====================================
+Dienstpostenplanung, Personalbudgetplanung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 2000 Mitarbeiter
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: Ja (gesetzliche Anforderung hinsichtlich Steuerprüfung)
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Personal
+Aus- und Fortbildung ext. Schulungsteilnehmer;830ca2c1-a190-40a8-a63c-f8ecacca4b54;10;"Tätigkeitsbeschreibung:
+====================================
+Schulung, Ausbildung, Fortbildung für externe Teilnehmer
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 100 ext. Schulungsteilnehmer pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Personal
+Personaladministration ext. Referenten;2806acb3-7141-4f51-a760-ac4cac557e63;10;"Tätigkeitsbeschreibung:
+====================================
+Administration ext. Referenten (Verwaltung, Abrechnung):
+Gebührenabrechnung, Arbeitszeitaufzeichnung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100 ext. Referenten pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: Ja
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A02 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Personal
+Aus- und Fortbildung Mitarbeiter ;d8fe1804-b398-4d06-b54a-0088de8098de;10;"Tätigkeitsbeschreibung:
+====================================
+Personalentwicklung, Schulung, Ausbildung, Fortbildung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 1000 Mitarbeiter
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: tlw.
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Personal
+Patientenadministration Patienten;127d22a2-925f-46a4-8355-be0be62c68e2;10;"Tätigkeitsbeschreibung: Administration der Behandlung, Einbringung der LKF-Gebühren, Pflege(Sonder)gebühren und Kostenbeiträge, Verrechnung mit Versicherungen
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Stationäre/ambulante medizinische-pflegerische Aufnahme (inkl. Triage) med-pfl Mitarbeiter (DSFA ja?);352d7d27-25e6-471f-8909-e67cd1eec7f3;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Medizinisch-pflegerische Behandlung/Planung med-pfl Mitarbeiter (DSFA ja?);11a7f817-05e3-4f26-bc19-aa21cc136848;10;;Kollegiale Führung
+Medizinisch-pflegerische Entlassung med-pfl Mitarbeiter (DSFA ja?);1c4f471a-1256-444a-b711-fa90620d8081;10;;Kollegiale Führung
+Klinische Studien med-pfl Mitarbeiter (DSFA ja?);10ae1d9c-c79b-4ea0-afbe-3cdacbaa53b3;10;;Kollegiale Führung
+Medizinisch-pflegerische Entlassung Patienten;81a10bdf-434a-4dc6-ac41-e67f7c6938d7;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Klinische Studien Patienten;d9222db6-18bd-4d06-bae2-10e53cbe5783;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Medizinisch-pflegerische Behandlung/Planung allgemein Patienten (DSFA Ja) ZR;5201cbb8-cecf-4564-8d1a-ce21c65c34ec;10;"Tätigkeitsbeschreibung:
+====================================
+Medizinisch-pflegerische Behandlung/Planung Patienten in folgenden Fachabteilungen je KH:
+- Innere Medizin
+- Chirurgie
+- Orthopädie
+- Gynäkologie
+- Augen
+- med. Zentralabteilungen
+- Urologie
+- Neurologie
+- Ortho/Trauma
+- HNO
+- Kinderheilkunde
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+zehntausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: ?
+
+- systematische umfangreiche Überwachung: nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): ?
+
+- Datenübermittlung in unsichere Drittländer: ?
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ja
+
+- Blacklisting oder Whitelisting: nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: ja
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Stationäre/ambulante medizinische-pflegerische Aufnahme (inkl. Triage) Patienten;32232d60-c944-4cb5-b6c6-3498bb222753;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Patientenadministration Begleitpersonen;c01fc3a2-ceb5-46ee-af2a-adcff064631e;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Patientenadministration Patientenvertreter;0203bbcd-50c5-483a-9503-f00881c684e0;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Patientenadministration Vertrauenspersonen;b1202dfa-8bca-4b56-989d-2baa6eef80c5;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Patientenadministration Zahlungspflichtige;a407c3ab-d477-4d7f-9825-8783370a6e76;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Patientenadministration Zuweiser/Hausärzte;a726abe1-0a91-48e4-82c8-373b84b079e1;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Stationäre/ambulante medizinische-pflegerische Aufnahme (inkl. Triage) Vertrauensperson;8ff95d79-21fc-49f5-8001-3da4ea2985f1;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Stationäre/ambulante medizinische-pflegerische Aufnahme (inkl. Triage) Notärzte/Sanitäter extern;703c51fa-5e0c-4e9d-a92e-b0c5ea6300ea;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Stationäre/ambulante medizinische-pflegerische Aufnahme (inkl. Triage) Patientenvertreter;50067547-3848-4cfb-bdba-2e8ea283b311;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Medizinisch-pflegerische Behandlung/Planung Patientenvertreter;29874941-467b-4c0f-a1ef-1d1726afad0a;10;;Kollegiale Führung
+SAP-Entwicklung Mitarbeiter;5d602e73-384d-4944-9294-52909b8536e0;10;"Tätigkeitsbeschreibung:
+====================================
+SAP allgemein (Patch Management, Changemanagement, etc.)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Insg. hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja, schwer nachvollziehbar
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A07 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+Applikationsbetreuung Patienten (DSFA ja) ZR;2bb3b1ad-37e1-41ff-b2e4-05c4b36a5d2b;10;"Tätigkeitsbeschreibung:
+====================================
+Service Desk (SAP+ div. Subsysteme), Service Request
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein, Art.9 Daten nicht umfangreich
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-Schnittstellenbetreuung Mitarbeiter;866d6c93-0dfc-43cf-baac-59fbe4a45f37;10;"Tätigkeitsbeschreibung:
+====================================
+Betreuung SAP-PI, Schnittstellen zu sämtlichen Subsystemen inkl. Fehlerbehebung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-User-/Berechtigungsverwaltung Mitarbeiter;b7adb036-d1b1-47bd-bc4b-7338d812e637;10;"Tätigkeitsbeschreibung:
+====================================
+SAP-Useranlage, Berechtigungsvergabe, Berechtigungsänderung, Berechtigungsentzug
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 20 Neuanlagen pro Monat (vorwiegend Mitarbeiter), ca. 1500 User gesamt
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A07 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Berechtigungen)
+SAP-Customizing (DSFA ja);2a153a40-8a9c-44c1-b8bf-80f90bf3c62b;10;"Tätigkeitsbeschreibung:
+====================================
+SAP-Customizing (ohne Entwicklung) inkl. Reporting
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein, nicht umfangreich; teilweise pseudonymisierte Patientendaten in Reports (Patientennummer), für Testzwecke werden teilweise auch Art.9 Daten von Patienten im Produktivsystem verarbeitet
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja, Nachverfolgbarkeit schwer
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Berechtigungen)
+SAP-Entwicklung Lieferanten;80a07062-befe-4fe7-ae1b-b76750daade5;10;"Tätigkeitsbeschreibung:
+====================================
+SAP allgemein (Patch Management, Changemanagement, etc.)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja, schwer nachvollziehbar
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-Entwicklung externe Ärzte;a09df033-2b96-485b-9066-55840775f307;10;"Tätigkeitsbeschreibung:
+====================================
+SAP allgemein (Patch Management, Changemanagement, etc.)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja, schwer nachvollziehbar
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-Entwicklung Geschäftspartner;0ab2b11d-607e-436c-bf3e-94de2b4842fe;10;"Tätigkeitsbeschreibung:
+====================================
+SAP allgemein (Patch Management, Changemanagement, etc.)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja, schwer nachvollziehbar
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+Applikationsbetreuung Mitarbeiter;62c716c5-df78-4f72-8fa1-a02776ad5923;10;"Tätigkeitsbeschreibung:
+====================================
+Service Desk (SAP+ div. Subsysteme), Service Request
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ev. hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+Applikationsbetreuung Lieferanten;6ef61560-da0e-4e9c-aa48-7daeb16276ea;10;"Tätigkeitsbeschreibung:
+====================================
+Service Desk (SAP+ div. Subsysteme), Service Request
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-Schnittstellenbetreuung Patienten (DSFA ja);c5f924e8-01f1-478e-86c8-d865dbd7bd60;10;"Tätigkeitsbeschreibung:
+====================================
+Betreuung SAP-PI, Schnittstellen zu sämtlichen Subsystemen inkl. Fehlerbehebung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein, Art.9 Daten nicht umfangreich
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-Schnittstellenbetreuung Lieferanten;536f3eb8-2e96-45ee-ad80-40e9fd95e84e;10;"Tätigkeitsbeschreibung:
+====================================
+Betreuung SAP-PI, Schnittstellen zu sämtlichen Subsystemen inkl. Fehlerbehebung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Planung und Betrieb)
+SAP-User-/Berechtigungsverwaltung externe Berater;e975005b-c42b-462a-935f-a83c385f8e70;10;"Tätigkeitsbeschreibung:
+====================================
+SAP-Useranlage, Berechtigungsvergabe, Berechtigungsänderung, Berechtigungsentzug
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A07 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Berechtigungen)
+SAP-User-/Berechtigungsverwaltung externe Ärzte;761236fe-eb27-491f-a671-206183139e50;10;"Tätigkeitsbeschreibung:
+====================================
+SAP-Useranlage, Berechtigungsvergabe, Berechtigungsänderung, Berechtigungsentzug
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A07 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Berechtigungen)
+SAP-User-/Berechtigungsverwaltung Schüler Pflegeschule;ee39fd77-23d9-4a69-a542-37f6645db400;10;"Tätigkeitsbeschreibung:
+====================================
+SAP-Useranlage, Berechtigungsvergabe, Berechtigungsänderung, Berechtigungsentzug
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A07 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Berechtigungen)
+SAP-User-/Berechtigungsverwaltung Lehrer Pflegeschule;6cdc5015-82bd-4d6a-b28b-e53cec7cfa4a;10;"Tätigkeitsbeschreibung:
+====================================
+SAP-Useranlage, Berechtigungsvergabe, Berechtigungsänderung, Berechtigungsentzug
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A07 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter IT (SAP-Berechtigungen)
+Interessentenverwaltung;fd3c62ee-267d-4c7d-888d-355f48cffe85;10;"Tätigkeitsbeschreibung:
+====================================
+Verwaltung von Interessentendaten zu Anbahnung von zukünftigen Geschäftsbeziehungen
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte (pro Jahr), max. tausende gesamt
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja - A01 ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";"Leiter Einkauf; .."
+Strategischer Zentraleinkauf (DSFA ja);57f1369f-c490-4ddc-be83-2a94d8951a04;10;"Tätigkeitsbeschreibung:
+====================================
+Verarbeitung von personenbezogenen Daten von Lieferanten zur Sicherstellung einer zeitgerechten und wirtschaftlichen Versorgung aller KRAGES Standorte u.a. durch Auswertung von Lieferanten, Auswertung von Bestellungen (Verarbeitung von Bonitätsdaten, Angebote von Lieferanten)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausend Gesamt, hundert neue jährlich
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein -> kein dokumentiertes Scoring auf Basis eines Algorithmus (k. Liste mit Lieferantenscoring)
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja 
+------------------------------------------------------------------------
+====================================";Leiter Einkauf
+KH Verwaltung Anlagenbuchhaltung/Controlling Lieferanten;e27bbc3e-ff62-4154-8369-cbd7dfc12781;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Anlagenbuchhaltung/Controlling Mitarbeiter;c10c3ed8-6675-4787-9db9-15bee686ea09;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 1000
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Finanzbuchhaltung Mitarbeiter allgemein;947358e5-f58c-45ea-9404-b2039787e03f;10;"Tätigkeitsbeschreibung:
+====================================
+Finanzbuchhaltung inkl. Archivierung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 1000
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Finanzbuchhaltung Patienten (DSFA nein?);23b1b544-303b-4f8d-90ca-794471e2529f;10;"Tätigkeitsbeschreibung:
+====================================
+Finanzbuchhaltung inkl. Sonderklassengebührenverteilung (Art.9 relelvant) inkl. Archivierung 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting) ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Finanzbuchhaltung med-pfl Mitarbeiter (DSFA ja);a331c40d-b44c-4a10-9a5c-7e2752be9769;10;"Tätigkeitsbeschreibung:
+====================================
+Finanzbuchhaltung (Sonderklassengebührenverteilung) inkl. Archivierung -> automatisierte Entscheidungen (Mitarbeiter)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 1000
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Ja
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Logisitk Lieferanten;1d07962f-7d39-4c7c-95a2-a58fa0a74ea2;10;"Tätigkeitsbeschreibung:
+====================================
+KH Bestellweren (operativer Einkauf), Lagerverwaltung, inkl. Verwaltung Lieferanten Tischlerei Schlaining
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 und DSFA-A05
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Logisitk Patienten (DSFA nein?);38e72621-1465-400d-888a-4786cf35c554;10;"Tätigkeitsbeschreibung:
+====================================
+KH Bestellweren (operativer Einkauf) -> Bestellung div. medizinischer Apparate (z.B.: Herzschrittmacher) mit Art.9 Relevanz, Lagerverwaltung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting) ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+KH Verwaltung Instandhaltung Mitarbeiter;1c699e4f-41d5-4e2f-ae9c-4d798e3fea71;10;"Tätigkeitsbeschreibung:
+====================================
+Gebäude- und Geräteinstandhaltung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100 ?
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Videoüberwachung (Objektschutz) Mitarbeiter (DSFA ja);b486f12e-52d7-4e43-bce0-e65e78712a8d;10;"Tätigkeitsbeschreibung:
+====================================
+KH Videoüberwachung im Zuge des Objekt- und Patientenschutzes 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Ja
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Videoüberwachung (Objektschutz) Patienten (DSFA ja);2aa26688-5df8-4d6e-82af-f282790f9b95;10;"Tätigkeitsbeschreibung:
+====================================
+KH Videoüberwachung im Zuge des Objekt- und Patientenschutzes 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potenziell alle Patienten 
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Ja
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Videoüberwachung (Objektschutz) Öffentlichkeit (DSFA ja);7e1a112e-8a49-4872-a889-41a6af4f5cfd;10;"Tätigkeitsbeschreibung:
+====================================
+KH Videoüberwachung im Zuge des Objekt- und Patientenschutzes 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Ja
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Schlüsselverwaltung Mitarbeiter;ab0db02d-cea8-4157-bc52-3e63cffa4f9a;10;"Tätigkeitsbeschreibung:
+====================================
+KH Schlüsselverwaltung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Parkplatzverwaltung Mitarbeiter;0f298c2b-8d4c-4c30-a459-32ce89d15d96;10;"Tätigkeitsbeschreibung:
+====================================
+KH Parkplatzverwaltung von Mitarbeitern, inkl. Auswertung im Einzelfall mit Personalvertretungs- und GF-Zustimmungseinholung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A02 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Küchenverwaltung Patienten ZR;8f67fe3b-f2bb-44af-89c0-0ec5ab88c2c7;10;"Tätigkeitsbeschreibung:
+====================================
+Küchenverwaltung in KHs inkl. Verarbeitung von Allergiedaten (Art.9 relevant)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende (Patienten stationär) -> Umfang der Daten begrenzt
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Küchenverwaltung Begleitpersonen;75ea5494-7fd5-4103-b21e-5a1a7e30071f;10;"Tätigkeitsbeschreibung:
+====================================
+Küchenverwaltung in KHs inkl. Verarbeitung von Allergiedaten (Art.9 relevant)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Beschwerdemanagement Patienten ZR;204227b4-6bb8-4b43-85c7-34f9fdcb817f;10;"Tätigkeitsbeschreibung:
+====================================
+KH Beschwerdemanagement für Patienten
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Schutzgruppenverwaltung Patienten (Opfer, Kinder) (DSFA ja);2cba6304-d8ba-476e-9843-0b0a05dfc4e0;10;"Tätigkeitsbeschreibung:
+====================================
+Opferschutzgruppen-, Kinderschutzgruppenverwaltung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Öffentlichkeitsarbeit/Eventmanagement Patienten (DSFA ja);f2bd7c49-a729-4bb0-8c1a-0dc23d053abf;10;"Tätigkeitsbeschreibung:
+====================================
+Öffentlichkeitsarbeit/Eventmanagement 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Öffentlichkeitsarbeit/Eventmanagement Mitarbeiter (DSFA ja);bee4f33e-5800-4054-80a4-f530800a6978;10;"Tätigkeitsbeschreibung:
+====================================
+Öffentlichkeitsarbeit/Eventmanagement 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Archivierung von Patientendaten (dezentral) (DSFA ja) ZR;3ce76ff7-a357-4cdf-a3af-c07a1c042df0;10;"Tätigkeitsbeschreibung:
+====================================
+Archivierung von Patientendaten je LKH zum Zwecke der Dokumentation bzw. Einhaltung der Aufbewahrungsfristen
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderttausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Kundenverwaltung Tischlerei Schlaining;1781cf16-ef51-4cec-a0e8-2d50e00e2994;10;"Tätigkeitsbeschreibung:
+====================================
+
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter KH Verwaltung
+Radiologische Untersuchungen und Befundungen (DSFA ja ?);0e895dd1-2f99-4ae7-b53c-faef6c3e0eaa;10;"Tätigkeitsbeschreibung:
+====================================
+Radiologische Untersuchungen und Befundungen im Radiologieverbund der KRAGES
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+zehntausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: ? DVR Meldung ? 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja ?
+------------------------------------------------------------------------
+====================================";Kollegiale Führung (Leiter Radiologie)
+Patholigische medizinisch-pflegerische Behandlung/Planung Patienten;fc868d71-424d-41a2-aa6c-3f7bb249ddea;10;"Tätigkeitsbeschreibung:
+====================================
+Medizinisch-pflegerische Behandlung/Planung Patienten in forlgenden Fachabteilungen je KH:
+- Pathologie
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Medizinisch-pflegerische Behandlung/Planung Labor Patienten;8c3195e8-f0ba-4548-8aa6-a3a407497430;10;"Tätigkeitsbeschreibung:
+====================================
+Medizinisch-pflegerische Behandlung/Planung Patienten in forlgenden Fachabteilungen je KH:
+- Labor
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Medizinisch-pflegerische Behandlung/Planung Intensiv Patienten;1edddabc-2a4c-4561-9d29-5aa7ea62351b;10;"Tätigkeitsbeschreibung:
+====================================
+Medizinisch-pflegerische Behandlung/Planung Patienten in forlgenden Fachabteilungen je KH:
+- Anästhäsie Intensiv
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: 
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: 
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): 
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: 
+
+- systematische umfangreiche Überwachung: 
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): 
+
+- Datenübermittlung in unsichere Drittländer: 
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: 
+
+- Blacklisting oder Whitelisting: 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: 
+------------------------------------------------------------------------
+====================================";Kollegiale Führung
+Rechtliche Klärung Patientenverrechnung;bce8f4a5-68df-41fc-9d8d-d70d73dd3be7;10;"Tätigkeitsbeschreibung:
+====================================
+Rechtliche Klärung von Anfrage der Häuser zu Patientenverrechnung (z.B. Patient will nicht bezahlen, erkennt Leistung nicht an);
+Office IT (kein SAP o.ä.), Daten werden bereits exportiert zur Verfügung gestellt, Briefe an Patienten per Post (durch Häuser versendet)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Anzahl Fälle: 10^2, die schriftliche Doku erzeugen, telefonisch 10^3
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Stab Recht
+kfm. Controlling Mitarbeiter (DSFA ja);6d8f7a59-2d01-44e5-be17-d6354769da76;10;"Tätigkeitsbeschreibung:
+====================================
+spezifische Berichte mit pers.bez. Daten im Zuge des kfm. Controllings
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Mitarbeiter
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja (Big Data -> SAP BW)
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Controlling
+kfm. Controlling Patienten (DSFA ja);8f9d8906-1940-47e6-8da5-7719b62e017a;10;"Tätigkeitsbeschreibung:
+====================================
+spezifische Berichte mit pers.bez. Daten im Zuge des kfm. Controllings
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja (Big Data -> SAP BW)
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Controlling
+kfm. Controlling Externe Ärzte (DSFA ja);113da55f-1b3f-48dd-b5ca-0227b070533a;10;"Tätigkeitsbeschreibung:
+====================================
+spezifische Berichte mit pers.bez. Daten im Zuge des kfm. Controllings
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja (Big Data -> SAP BW)
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Controlling
+kfm. Controlling Begleitpersonen (DSFA ja);2c8a931e-8023-4727-b92f-0ea64ae378ed;10;"Tätigkeitsbeschreibung:
+====================================
+spezifische Berichte mit pers.bez. Daten im Zuge des kfm. Controllings
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja (Big Data -> SAP BW)
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Controlling
+Auswertung für BURGEF Patienten (Rolle: AV) ZR;1e4491b4-f8d0-4744-a059-b1ae908aa187;10;"Tätigkeitsbeschreibung:
+====================================
+spezifische Berichte mit pers.bez. Daten im Zuge des kfm. Controllings
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Ja (Big Data -> SAP BW)
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Controlling
+Debitorenverwaltung ZR;5379f668-56aa-4d01-add8-5230c49feb44;10;"Tätigkeitsbeschreibung:
+====================================
+Debitorenverwaltung (spez. Patientenverwaltung Oberpullendorf im Zuge der künstlichen Befruchtung) inkl. Archivierung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+max. hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Kreditorenverwaltung med-pfl Mitarbeiter;8c255086-6a40-48b0-8a1e-01a76d44d750;10;"Tätigkeitsbeschreibung:
+====================================
+Kreditorenverwaltung im Zuge der SKL-Abrechnung inkl. Archivierung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 und DSFA-A02 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Kreditorenverwaltung Lieferanten;f90205a5-6d58-471c-b612-c72d4fb21fbb;10;"Tätigkeitsbeschreibung:
+====================================
+Kreditorenverwaltung von Lieferanten inkl Archivierung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausend Gesamt, hundert neue jährlich
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting)
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Lieferantencontrolling ;be5d17ce-6818-4d74-a56c-5bf1d95bef1a;10;"Tätigkeitsbeschreibung:
+====================================
+Lieferantencontrolling im Zuge des Lieferantenmanagements (Umsatzcontrolling, etc.)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausend Gesamt, hundert neue jährlich
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting) ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Anlageninventarverwaltung Lieferanten;c629a196-2d7b-4bba-a031-36e959b56cd9;10;"Tätigkeitsbeschreibung:
+====================================
+Anlageninventraverwaltung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausend Gesamt, hundert neue jährlich
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A05 (Whitelisting) 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Anlageninventarverwaltung Mitarbeiter;441e6a5b-4003-4f49-a5c3-86c9ae3a2ba2;10;"Tätigkeitsbeschreibung:
+====================================
+Anlageninventarverwaltung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A05 (Whitelisting) 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Finanzbuchhaltung Aufsichtsratsmitglieder;9430c9f9-1ae8-42f0-b6b1-c28be0b76f8b;10;"Tätigkeitsbeschreibung:
+====================================
+Erstellung Quartals-/Jahresabschlüsse, etc.
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+insgesamt unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Zahlungsverkehr ext. Schulungsteilnehmer;5962a8bb-3918-45cf-a13f-b9de11e55dd4;10;"Tätigkeitsbeschreibung:
+====================================
+Rechnungsreglung und Überweisungen
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausend Gesamt, hundert neue jährlich
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting) ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Zahlungsverkehr Lieferanten;ce584740-4c88-4f2f-9b42-5654c5d2dee2;10;"Tätigkeitsbeschreibung:
+====================================
+Rechnungsreglung und Überweisungen
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausend Gesamt, hundert neue jährlich
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Ja, DSFA-A01 (Whitelisting) ?
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter Rechnungswesen
+Medikations-Plausibilitätsprüfung in CATO Patienten (DSFA ja);d395809a-6b48-49fe-a574-b6feb8dabf62;10;"Tätigkeitsbeschreibung:
+====================================
+Überprüfung der Plausibilität der Medikation von Patienten durch Apotheker
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein ?
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Medikations-Plausibilitätsprüfung in CATO med-pfl Mitarbeiter;9b2462ff-4eb9-4f8c-9f47-8417b6b5452c;10;"Tätigkeitsbeschreibung:
+====================================
+Überprüfung der Plausibilität der Medikation von Patienten durch Apotheker
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Sturzprotokollauswertung auf Medikation Patienten;0fa80174-9aef-4c41-9bcf-64d389d4ae7d;10;"Tätigkeitsbeschreibung:
+====================================
+Auswertung der Sturzprotokolle auf Medikation von Patienten durch Apotheker
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein ?
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Stationsanforderung an Apotheke Patienten (DSFA ja);3356cf43-37c8-482b-ad62-a69ac85c0c7a;10;"Tätigkeitsbeschreibung:
+====================================
+Anforderungen der Stationen zu Medikamenten bzw. zur Medikation von Patienten
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+zehntausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Stationsanforderung an Apotheke med-pfl Mitarbeiter;cc87d57b-52a2-4d51-b4e6-0feac570cc78;10;"Tätigkeitsbeschreibung:
+====================================
+Anforderungen der Stationen zu Medikamenten bzw. zur Medikation von Patienten
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Bestellung Apotheke Mitarbeiter;d01a76a4-a180-4511-9b6a-06cd69554b31;10;"Tätigkeitsbeschreibung:
+====================================
+Medikamentenbestellungen mit Mitarbeiterzuordnung 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Klinische Pharmazie Patienten (DSFA ja) ZR;71c040cd-d6b0-436e-864c-0096010d5052;10;"Tätigkeitsbeschreibung:
+====================================
+klinische Pharmazie (inkl. pharm. Interventionen) -> Verarbeitung SV-Nr mit Medikation Vor/Nach Aufenthalt -> Weiterleitung an SV-Träger -> Identifikation Einsparungspotenzial Medikation
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+potentiell alle Patienten
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein ?
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+(Elektronisches) Suchtgiftheft Patienten (DSFA ja) ZR;42eda438-36f3-423b-b650-d7760674409f;10;"Tätigkeitsbeschreibung:
+====================================
+Führung eines Suchtgifthefts (aktuell in Papierform -> zukünftig digital in SAP) über die Medikation von Patienten mit Klassifikation als Suchtgift ------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+tausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein ?
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+(Elektronisches) Suchtgiftheft med-pfl Mitarbeiter;21c0a2dd-f6f1-47e4-87ec-301c46351027;10;"Tätigkeitsbeschreibung:
+====================================
+Führung eines Suchtgifthefts (aktuell in Papierform -> zukünftig digital in SAP) über die Medikation von Patienten mit Klassifikation als Suchtgift ------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Apotheke
+Labormedizinische Untersuchungen intern Patienten (DSFA ja);671814cd-5b4c-4c38-bcd1-d3828b1db770;10;"Tätigkeitsbeschreibung:
+====================================
+Labormedizinische Untersuchungen nach interner Stationsanforderung (Blutuntersuchungen, Knochenmarksuntersuchungen, Drogentests, etc.) als Entscheidungsgrundlage für weitere medizinische Behandlung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+zehntausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein 
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Labor
+Labormedizinische Untersuchungen für Neurologisches Reha Zentrum Kittsee ;b2ee308a-2eac-452e-8aab-8804ae16ae2f;10;"Tätigkeitsbeschreibung:
+====================================
+Labormedizinische Untersuchungen für Neurologisches Reha Zentrum Kittsee 
+Labor als Auftragsverarbeiter
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte ?
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: vom DS-Verantwortlichen zu definieren
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: vom DS-Verantwortlichen zu definieren
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): vom DS-Verantwortlichen zu definieren
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: vom DS-Verantwortlichen zu definieren
+
+- systematische umfangreiche Überwachung: vom DS-Verantwortlichen zu definieren
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): vom DS-Verantwortlichen zu definieren
+
+- Datenübermittlung in unsichere Drittländer: vom DS-Verantwortlichen zu definieren
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: vom DS-Verantwortlichen zu definieren
+
+- Blacklisting oder Whitelisting: vom DS-Verantwortlichen zu definieren
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: vom DS-Verantwortlichen zu definieren
+------------------------------------------------------------------------
+====================================";"Neurologisches Reha Zentrum Kittsee; KRAGES  bzw. Leiter Labor ist Auftragsverarbeiter"
+Befund- und Bildübermittlung Radiologie (DSFA ja?) ZR;3bf98aff-3973-4179-b07a-3ded6906013c;10;"Tätigkeitsbeschreibung:
+====================================
+Übermittlung von Befunden sowie Bilddaten einer radiologischen Untersuchung bzw. Befundung
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+zehntausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Ja
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: ? DVR Meldung ? 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja ?
+------------------------------------------------------------------------
+====================================";Kollegiale Führung (Leiter Radiologie)
+Langzeitarchivierung Bilddaten Radiologie (DSFA ja?);be3e4123-9ae2-4d75-a86e-9fbcf75a4cdb;10;"Tätigkeitsbeschreibung:
+====================================
+Langzeitarchivierung von Bilddaten der Radiologie
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+zehntausende
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: ? DVR Meldung ? 
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja ?
+------------------------------------------------------------------------
+====================================";Kollegiale Führung (Leiter Radiologie)
+Aufnahme Pflegeschule (Bewerbermanagement) (DSFA ja);c158c7c4-9fcd-4715-9698-76d91bdbd6e0;10;"Tätigkeitsbeschreibung:
+====================================
+Pflegeschüler Aufnahme: Erhebung und Verarbeitung von Bewerberdaten (Stammdaten, Lebenslauf, Straregisterauszug, Immunitätsnachweis) inkl. Scoring von Bewerbern aufgrund div. Kriterien bzw. Lebenslauf
+-----------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 100 jährlich, jährliche Löschung nicht aufgenommener Bewerber
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Ja
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Ja Art.10 Daten aktuell bereits bei Bewerbung mitzuliefern
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: Ja
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja
+------------------------------------------------------------------------
+====================================";Leiter Pflegeschule
+Schulverwaltung und Archivierung Schüler;aeec38e0-dc17-42c0-b6d0-3be878bcfbcd;10;"Tätigkeitsbeschreibung:
+====================================
+Schulverwaltung Pflegeschule inkl. Abrechnung, Administration, Unterrichtung, Praktikumszuteilung, etc. inkl. Archivierung von Schülerdaten Pflegeschule -> Papierarchiv zukünftig ev. Easysoft in Kombination mit Langzeitarchiv (Stammdaten, Zeugnisse, Diplome, Noten, etc.)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 150 jährlich, gesamt: 5000
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Pflegeschule
+Schulverwaltung und Archivierung Lehrer;24720a9c-f4c5-4e48-a345-224d62583768;10;"Tätigkeitsbeschreibung:
+====================================
+Schulverwaltung Pflegeschule inkl. Abrechnung, Administration, Unterrichtung, Praktikumszuteilung, etc.  inkl. Archivierung von Lehrerdaten Pflegeschule -> Papierarchiv zukünftig ev. Easysoft in Kombination mit Langzeitarchiv 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 15
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Pflegeschule
+Schulverwaltung und Archivierung ext. Referenten;c5cf6eae-43d7-4285-ab4d-26a72140d2ff;10;"Tätigkeitsbeschreibung:
+====================================
+Schulverwaltung Pflegeschule inkl. Abrechnung, Administration, Unterrichtung, Praktikumszuteilung, etc. inkl. Archivierung von ext. Referentendaten Pflegeschule -> Papierarchiv zukünftig ev. Easysoft in Kombination mit Langzeitarchiv 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+ca. 20-30
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Leiter Pflegeschule
+Rechtliche Klärung Behandlungsfragen;70c3fc4a-7299-4763-8d34-d131db061203;10;"Tätigkeitsbeschreibung:
+====================================
+Rechtliche Klärung von Anfragen der Häuser zu Behandlungsfragen (Rechtsfragen zur medizinischen Abwicklung wie z.B. Einwilligungserklärungen);
+mündliche Anfragen, Infos wie Krankengeschichten werden per E-Mail gesendet (nur intern), Office IT
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Anzahl Fälle: 10^2, die schriftliche Doku erzeugen, telefonisch 10^3
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Stab Recht
+Rechtliche Klärung Rechtsfragen mit Häusern und SV;e6733c58-ff98-4005-a17b-4b47c2f48be4;10;"Tätigkeitsbeschreibung:
+====================================
+Klärung von Rechtsfragen mit anderen Häusern (Transfer in andere Häuser) und mit SV;
+Rechnungsdaten per PDF, Krankengeschichte (nur intern), externe Telefonate oder postalischer Austausch (mit Unterschrift vom GF), manchmal auch gescannt per E-Mail and SV oder externe Häuser (dringende Fälle, Übermittlung durch das Haus selbst, nicht durch Stab Recht)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+Anzahl Fälle: 10^2, die schriftliche Doku erzeugen, telefonisch 10^3
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein
+------------------------------------------------------------------------
+====================================";Stab Recht
+Zentrales Beschwerdemanagement Patienten;b43ca29d-31f1-422f-abe0-8b411cd8e87f;10;"Tätigkeitsbeschreibung:
+====================================
+Verwaltung von Patientenbeschwerden über alle Häuser inkl. interne/externe Übermittlung (an Häuser, Gerichte, Patientenanwälte, Rechtsanwälte und Versicherungen)
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100 Beschwerden pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Sturzprotokollauswerung allgemein Patienten;e2b02514-0027-496f-a4d3-385f529c5c43;10;"Tätigkeitsbeschreibung:
+====================================
+Allgemeine Sturzprotokollauswertung zur anschließenden Maßnahmenplanung mit möglicher Übermittlung im Einzelfall an Gerichte
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 500 (über alle Häuser) pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Sturzprotokollauswerung allgemein med-pfl Mitarbeiter;db6e976b-a8d6-4fff-85c7-d2b96486301b;10;"Tätigkeitsbeschreibung:
+====================================
+Allgemeine Sturzprotokollauswertung zur anschließenden Maßnahmenplanung mit möglicher Übermittlung im Einzelfall an Gerichte
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 500 (über alle Häuser) pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Dekubitusauswertung Patienten;885a7577-c20f-42d7-a144-c59c43109066;10;"Tätigkeitsbeschreibung:
+====================================
+Dekubitusauswertung zur anschließenden Maßnahmenplanung mit möglicher Übermittlung im Einzelfall an Gerichte
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 1000 (über alle Häuser) pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Dekubitusauswertung med-pfl Mitarbeiter;6bedc927-fb02-4d03-92ad-e40e674cf6f9;10;"Tätigkeitsbeschreibung:
+====================================
+Allgemeine Sturzprotokollauswertung zur anschließenden Maßnahmenplanung mit möglicher Übermittlung im Einzelfall an Gerichte
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 1000 (über alle Häuser) pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Entlassungsauswertungen Pflege Patienten;d1065dd7-1297-4b7b-80fc-fd4e00cdb44f;10;"Tätigkeitsbeschreibung:
+====================================
+Auswertungen von Entlassungen aller Häuser inkl. Weiterleitung von Art.9 Daten im Falle der Weiterpflege an Pflegeheime, Hauskrankenpflege, Case Manager von SZ
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte Weiterleitungen pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Fragebogenauswertung med-pfl Mitarbeiter;82ced1de-3509-4492-9bf3-1c8fd6ce46b8;10;"Tätigkeitsbeschreibung:
+====================================
+Auswertungen von Patientenfragebögen und Fragebögen niedergelassener Ärzte und Zuweiser über KRAGES Abteilungen (Behandlung, etc.). Output: Bewertungen mit Abteilungsbezug, potentielle Auswirkungen auf Abteilungsleiter und Mitarbeiter
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100 pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Auswertungen Infektionen/Komplikationen Patienten;6aa8f63f-9e43-48d2-a9a4-c373d05da90d;10;"Tätigkeitsbeschreibung:
+====================================
+Auswertungen von Infektionen zur anschließenden Maßnahmenplanung 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100 pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Auswertungen Infektionen/Komplikationen med-pfl Mitarbeiter;6c5833cc-4ae8-4791-8049-4d03b1aeac0f;10;"Tätigkeitsbeschreibung:
+====================================
+Auswertungen von Infektionen zur anschließenden Maßnahmenplanung 
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+unter 100 pro Jahr
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Nein 
+------------------------------------------------------------------------
+====================================";Leiter QM
+Beinahefehlermeldungen im CIRS (DSFA ja);bc748d52-5296-43ac-8c6d-14ff3b024c0f;10;"Tätigkeitsbeschreibung:
+====================================
+Beinahefehlermeldungen im CIRS durch Mitarbeiter (bezogen auf andere Mitarbeiter) mit anschließender Anonymisierung und Veröffentlichung im Intranet durch QM-Mitarbeiter
+------------------------------------------------------------------------
+Geschätzter Umfang von Betroffenen: 
+hunderte Meldungen im Jahr, potentiell alle Mitarbeiter
+-----------------------------------------------------------------------
+DSFA-Kriterien:
+
+- Verwendung neuer Technologien: Nein
+
+- Scoring/Profiling/Autom. Entscheidungen mit rechtl. Auswirkung: Nein
+
+- umfangreiche Verarbeitung besonderer Kategorien von personenbezogenen Daten (Art.9 oder 10): Nein
+
+- Verkettung von Daten aus verschiedenen Verarbeitungstätigkeiten: Nein
+
+- systematische umfangreiche Überwachung: Nein
+
+- besondere Schutzwürdigkeit (Möglichkeiten zum Einspruch sind beschränkt oder die Verarbeitung ist schwer nachvollziehbar bzw. nicht vermeidbar): Nein
+
+- Datenübermittlung in unsichere Drittländer: Nein
+
+- gesetzlicher Auftrag bzw. gesetzliche Grundlage gegeben: ?
+
+- Blacklisting oder Whitelisting: Nein
+ 
+Durchführung einer Datenschutzfolgeabschätzung (DSFA) notwendig: Ja 
+------------------------------------------------------------------------
+====================================";Leiter QM
